@@ -4,7 +4,7 @@ English|中文
 
 Identification of protein phenotype is an essential and challenge problem in modern genetics. Such problem is related to some serious diseases, including cancers, HIV and so on. The factors of genotype and environment increase the difficulties in determining the phenotype of proteins. The experiment methods to achieve such goal are always time-consuming and expensive. In this study, we proposed a network computational method to identify novel phenotypic annotations of proteins. To execute such method, a heterogeneous network was constructed, which contained three sub-networks: protein network, phenotypic type network, and protein-phenotypic type network. The method tried to find out all paths with limited length, which connected one protein and one phenotypic type. A scoring scheme was adopted to count obtained paths and induced a score to indicate the associations between them. The ROC and PR curve analyses were done to evaluate the performance of the method, indicating the utility of the method. Finally, our method was superior to other network methods, which incorporated popular network algorithms.
 
-
+![image](https://github.com/GJ100/Path-Method/blob/main/Figure%203.png)
 
 ### This program is used to calculate the matching value in each path starting from phenotype and ending at protein, Relevant explanations are as follows:
 
