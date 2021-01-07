@@ -1,0 +1,2401 @@
+type,protein
+Conditional phenotypes,YAL002W
+Conditional phenotypes,YAL009W
+Conditional phenotypes,YAL010C
+Conditional phenotypes,YAL013W
+Conditional phenotypes,YAL016W
+Conditional phenotypes,YAL020C
+Conditional phenotypes,YAL021C
+Conditional phenotypes,YAL024C
+Conditional phenotypes,YAL025C
+Conditional phenotypes,YAL026C
+Conditional phenotypes,YAL035W
+Conditional phenotypes,YAL041W
+Conditional phenotypes,YAL047C
+Conditional phenotypes,YBL002W
+Conditional phenotypes,YBL003C
+Conditional phenotypes,YBL007C
+Conditional phenotypes,YBL025W
+Conditional phenotypes,YBL027W
+Conditional phenotypes,YBL035C
+Conditional phenotypes,YBL058W
+Conditional phenotypes,YBL079W
+Conditional phenotypes,YBL091C
+Conditional phenotypes,YBL097W
+Conditional phenotypes,YBR001C
+Conditional phenotypes,YBR009C
+Conditional phenotypes,YBR017C
+Conditional phenotypes,YBR048W
+Conditional phenotypes,YBR055C
+Conditional phenotypes,YBR073W
+Conditional phenotypes,YBR079C
+Conditional phenotypes,YBR081C
+Conditional phenotypes,YBR082C
+Conditional phenotypes,YBR087W
+Conditional phenotypes,YBR088C
+Conditional phenotypes,YBR112C
+Conditional phenotypes,YBR127C
+Conditional phenotypes,YBR158W
+Conditional phenotypes,YBR159W
+Conditional phenotypes,YBR160W
+Conditional phenotypes,YBR169C
+Conditional phenotypes,YBR171W
+Conditional phenotypes,YBR179C
+Conditional phenotypes,YBR185C
+Conditional phenotypes,YBR189W
+Conditional phenotypes,YBR200W
+Conditional phenotypes,YBR212W
+Conditional phenotypes,YBR253W
+Conditional phenotypes,YBR279W
+Conditional phenotypes,YCL004W
+Conditional phenotypes,YCL029C
+Conditional phenotypes,YCL043C
+Conditional phenotypes,YCR002C
+Conditional phenotypes,YCR021C
+Conditional phenotypes,YCR028C
+Conditional phenotypes,YCR034W
+Conditional phenotypes,YCR042C
+Conditional phenotypes,YCR044C
+Conditional phenotypes,YCR047C
+Conditional phenotypes,YCR063W
+Conditional phenotypes,YCR077C
+Conditional phenotypes,YCR088W
+Conditional phenotypes,YCR094W
+Conditional phenotypes,YDL003W
+Conditional phenotypes,YDL005C
+Conditional phenotypes,YDL006W
+Conditional phenotypes,YDL014W
+Conditional phenotypes,YDL040C
+Conditional phenotypes,YDL047W
+Conditional phenotypes,YDL058W
+Conditional phenotypes,YDL084W
+Conditional phenotypes,YDL090C
+Conditional phenotypes,YDL092W
+Conditional phenotypes,YDL102W
+Conditional phenotypes,YDL108W
+Conditional phenotypes,YDL116W
+Conditional phenotypes,YDL145C
+Conditional phenotypes,YDL160C
+Conditional phenotypes,YDL185W
+Conditional phenotypes,YDL188C
+Conditional phenotypes,YDL192W
+Conditional phenotypes,YDL195W
+Conditional phenotypes,YDL198C
+Conditional phenotypes,YDL200C
+Conditional phenotypes,YDL207W
+Conditional phenotypes,YDL220C
+Conditional phenotypes,YDL226C
+Conditional phenotypes,YDL229W
+Conditional phenotypes,YDL232W
+Conditional phenotypes,YDR002W
+Conditional phenotypes,YDR021W
+Conditional phenotypes,YDR025W
+Conditional phenotypes,YDR028C
+Conditional phenotypes,YDR052C
+Conditional phenotypes,YDR054C
+Conditional phenotypes,YDR074W
+Conditional phenotypes,YDR081C
+Conditional phenotypes,YDR082W
+Conditional phenotypes,YDR087C
+Conditional phenotypes,YDR113C
+Conditional phenotypes,YDR118W
+Conditional phenotypes,YDR138W
+Conditional phenotypes,YDR150W
+Conditional phenotypes,YDR155C
+Conditional phenotypes,YDR159W
+Conditional phenotypes,YDR173C
+Conditional phenotypes,YDR174W
+Conditional phenotypes,YDR176W
+Conditional phenotypes,YDR182W
+Conditional phenotypes,YDR195W
+Conditional phenotypes,YDR207C
+Conditional phenotypes,YDR212W
+Conditional phenotypes,YDR225W
+Conditional phenotypes,YDR226W
+Conditional phenotypes,YDR245W
+Conditional phenotypes,YDR251W
+Conditional phenotypes,YDR264C
+Conditional phenotypes,YDR283C
+Conditional phenotypes,YDR323C
+Conditional phenotypes,YDR353W
+Conditional phenotypes,YDR364C
+Conditional phenotypes,YDR390C
+Conditional phenotypes,YDR427W
+Conditional phenotypes,YDR432W
+Conditional phenotypes,YDR448W
+Conditional phenotypes,YDR454C
+Conditional phenotypes,YDR457W
+Conditional phenotypes,YDR483W
+Conditional phenotypes,YDR484W
+Conditional phenotypes,YDR488C
+Conditional phenotypes,YDR495C
+Conditional phenotypes,YDR498C
+Conditional phenotypes,YDR507C
+Conditional phenotypes,YEL003W
+Conditional phenotypes,YEL013W
+Conditional phenotypes,YEL019C
+Conditional phenotypes,YEL027W
+Conditional phenotypes,YEL034W
+Conditional phenotypes,YEL036C
+Conditional phenotypes,YER007W
+Conditional phenotypes,YER008C
+Conditional phenotypes,YER016W
+Conditional phenotypes,YER021W
+Conditional phenotypes,YER022W
+Conditional phenotypes,YER023W
+Conditional phenotypes,YER032W
+Conditional phenotypes,YER068W
+Conditional phenotypes,YER107C
+Conditional phenotypes,YER111C
+Conditional phenotypes,YER125W
+Conditional phenotypes,YER127W
+Conditional phenotypes,YER155C
+Conditional phenotypes,YER159C
+Conditional phenotypes,YER168C
+Conditional phenotypes,YER172C
+Conditional phenotypes,YFL001W
+Conditional phenotypes,YFL002C
+Conditional phenotypes,YFL009W
+Conditional phenotypes,YFL016C
+Conditional phenotypes,YFL029C
+Conditional phenotypes,YFL037W
+Conditional phenotypes,YFL038C
+Conditional phenotypes,YFL039C
+Conditional phenotypes,YFL045C
+Conditional phenotypes,YFR002W
+Conditional phenotypes,YFR004W
+Conditional phenotypes,YFR019W
+Conditional phenotypes,YFR027W
+Conditional phenotypes,YFR033C
+Conditional phenotypes,YFR036W
+Conditional phenotypes,YFR052W
+Conditional phenotypes,YGL003C
+Conditional phenotypes,YGL022W
+Conditional phenotypes,YGL044C
+Conditional phenotypes,YGL055W
+Conditional phenotypes,YGL058W
+Conditional phenotypes,YGL070C
+Conditional phenotypes,YGL073W
+Conditional phenotypes,YGL076C
+Conditional phenotypes,YGL078C
+Conditional phenotypes,YGL092W
+Conditional phenotypes,YGL093W
+Conditional phenotypes,YGL100W
+Conditional phenotypes,YGL105W
+Conditional phenotypes,YGL120C
+Conditional phenotypes,YGL128C
+Conditional phenotypes,YGL130W
+Conditional phenotypes,YGL135W
+Conditional phenotypes,YGL137W
+Conditional phenotypes,YGL155W
+Conditional phenotypes,YGL173C
+Conditional phenotypes,YGL178W
+Conditional phenotypes,YGL189C
+Conditional phenotypes,YGL190C
+Conditional phenotypes,YGL206C
+Conditional phenotypes,YGL212W
+Conditional phenotypes,YGL216W
+Conditional phenotypes,YGL238W
+Conditional phenotypes,YGL240W
+Conditional phenotypes,YGL255W
+Conditional phenotypes,YGR009C
+Conditional phenotypes,YGR036C
+Conditional phenotypes,YGR056W
+Conditional phenotypes,YGR063C
+Conditional phenotypes,YGR075C
+Conditional phenotypes,YGR078C
+Conditional phenotypes,YGR082W
+Conditional phenotypes,YGR092W
+Conditional phenotypes,YGR104C
+Conditional phenotypes,YGR105W
+Conditional phenotypes,YGR116W
+Conditional phenotypes,YGR120C
+Conditional phenotypes,YGR140W
+Conditional phenotypes,YGR159C
+Conditional phenotypes,YGR162W
+Conditional phenotypes,YGR167W
+Conditional phenotypes,YGR180C
+Conditional phenotypes,YGR214W
+Conditional phenotypes,YGR216C
+Conditional phenotypes,YGR217W
+Conditional phenotypes,YGR252W
+Conditional phenotypes,YGR262C
+Conditional phenotypes,YGR274C
+Conditional phenotypes,YGR276C
+Conditional phenotypes,YHL004W
+Conditional phenotypes,YHL011C
+Conditional phenotypes,YHL027W
+Conditional phenotypes,YHL031C
+Conditional phenotypes,YHL035C
+Conditional phenotypes,YHR002W
+Conditional phenotypes,YHR004C
+Conditional phenotypes,YHR010W
+Conditional phenotypes,YHR023W
+Conditional phenotypes,YHR027C
+Conditional phenotypes,YHR030C
+Conditional phenotypes,YHR038W
+Conditional phenotypes,YHR041C
+Conditional phenotypes,YHR051W
+Conditional phenotypes,YHR057C
+Conditional phenotypes,YHR059W
+Conditional phenotypes,YHR060W
+Conditional phenotypes,YHR064C
+Conditional phenotypes,YHR067W
+Conditional phenotypes,YHR068W
+Conditional phenotypes,YHR084W
+Conditional phenotypes,YHR098C
+Conditional phenotypes,YHR101C
+Conditional phenotypes,YHR107C
+Conditional phenotypes,YHR120W
+Conditional phenotypes,YHR135C
+Conditional phenotypes,YHR137W
+Conditional phenotypes,YHR164C
+Conditional phenotypes,YHR166C
+Conditional phenotypes,YHR168W
+Conditional phenotypes,YHR174W
+Conditional phenotypes,YHR187W
+Conditional phenotypes,YHR205W
+Conditional phenotypes,YIL031W
+Conditional phenotypes,YIL033C
+Conditional phenotypes,YIL061C
+Conditional phenotypes,YIL063C
+Conditional phenotypes,YIL075C
+Conditional phenotypes,YIL078W
+Conditional phenotypes,YIL115C
+Conditional phenotypes,YIL118W
+Conditional phenotypes,YIL119C
+Conditional phenotypes,YIL126W
+Conditional phenotypes,YIL128W
+Conditional phenotypes,YIL142W
+Conditional phenotypes,YIL150C
+Conditional phenotypes,YIL154C
+Conditional phenotypes,YIR009W
+Conditional phenotypes,YIR011C
+Conditional phenotypes,YIR024C
+Conditional phenotypes,YIR038C
+Conditional phenotypes,YJL001W
+Conditional phenotypes,YJL004C
+Conditional phenotypes,YJL005W
+Conditional phenotypes,YJL006C
+Conditional phenotypes,YJL014W
+Conditional phenotypes,YJL041W
+Conditional phenotypes,YJL054W
+Conditional phenotypes,YJL061W
+Conditional phenotypes,YJL080C
+Conditional phenotypes,YJL089W
+Conditional phenotypes,YJL091C
+Conditional phenotypes,YJL095W
+Conditional phenotypes,YJL099W
+Conditional phenotypes,YJL101C
+Conditional phenotypes,YJL115W
+Conditional phenotypes,YJL125C
+Conditional phenotypes,YJL127C
+Conditional phenotypes,YJL140W
+Conditional phenotypes,YJL141C
+Conditional phenotypes,YJL167W
+Conditional phenotypes,YJL174W
+Conditional phenotypes,YJL203W
+Conditional phenotypes,YJL204C
+Conditional phenotypes,YJL209W
+Conditional phenotypes,YJL210W
+Conditional phenotypes,YJR002W
+Conditional phenotypes,YJR006W
+Conditional phenotypes,YJR031C
+Conditional phenotypes,YJR032W
+Conditional phenotypes,YJR042W
+Conditional phenotypes,YJR043C
+Conditional phenotypes,YJR055W
+Conditional phenotypes,YJR068W
+Conditional phenotypes,YJR076C
+Conditional phenotypes,YJR090C
+Conditional phenotypes,YJR093C
+Conditional phenotypes,YKL009W
+Conditional phenotypes,YKL020C
+Conditional phenotypes,YKL022C
+Conditional phenotypes,YKL028W
+Conditional phenotypes,YKL056C
+Conditional phenotypes,YKL057C
+Conditional phenotypes,YKL073W
+Conditional phenotypes,YKL080W
+Conditional phenotypes,YKL113C
+Conditional phenotypes,YKL117W
+Conditional phenotypes,YKL122C
+Conditional phenotypes,YKL139W
+Conditional phenotypes,YKL154W
+Conditional phenotypes,YKL167C
+Conditional phenotypes,YKL181W
+Conditional phenotypes,YKL213C
+Conditional phenotypes,YKR001C
+Conditional phenotypes,YKR024C
+Conditional phenotypes,YKR082W
+Conditional phenotypes,YKR086W
+Conditional phenotypes,YLL006W
+Conditional phenotypes,YLL008W
+Conditional phenotypes,YLL026W
+Conditional phenotypes,YLL036C
+Conditional phenotypes,YLL039C
+Conditional phenotypes,YLL050C
+Conditional phenotypes,YLL060C
+Conditional phenotypes,YLR025W
+Conditional phenotypes,YLR038C
+Conditional phenotypes,YLR048W
+Conditional phenotypes,YLR075W
+Conditional phenotypes,YLR078C
+Conditional phenotypes,YLR102C
+Conditional phenotypes,YLR127C
+Conditional phenotypes,YLR148W
+Conditional phenotypes,YLR175W
+Conditional phenotypes,YLR195C
+Conditional phenotypes,YLR197W
+Conditional phenotypes,YLR200W
+Conditional phenotypes,YLR223C
+Conditional phenotypes,YLR229C
+Conditional phenotypes,YLR234W
+Conditional phenotypes,YLR240W
+Conditional phenotypes,YLR244C
+Conditional phenotypes,YLR262C
+Conditional phenotypes,YLR268W
+Conditional phenotypes,YLR298C
+Conditional phenotypes,YLR305C
+Conditional phenotypes,YLR310C
+Conditional phenotypes,YLR314C
+Conditional phenotypes,YLR319C
+Conditional phenotypes,YLR337C
+Conditional phenotypes,YLR342W
+Conditional phenotypes,YLR357W
+Conditional phenotypes,YLR369W
+Conditional phenotypes,YLR371W
+Conditional phenotypes,YLR372W
+Conditional phenotypes,YLR378C
+Conditional phenotypes,YLR396C
+Conditional phenotypes,YLR399C
+Conditional phenotypes,YLR403W
+Conditional phenotypes,YLR430W
+Conditional phenotypes,YML008C
+Conditional phenotypes,YML031W
+Conditional phenotypes,YML035C
+Conditional phenotypes,YML061C
+Conditional phenotypes,YML062C
+Conditional phenotypes,YML078W
+Conditional phenotypes,YML085C
+Conditional phenotypes,YML094W
+Conditional phenotypes,YML097C
+Conditional phenotypes,YML104C
+Conditional phenotypes,YML105C
+Conditional phenotypes,YML112W
+Conditional phenotypes,YML121W
+Conditional phenotypes,YML130C
+Conditional phenotypes,YMR001C
+Conditional phenotypes,YMR021C
+Conditional phenotypes,YMR032W
+Conditional phenotypes,YMR038C
+Conditional phenotypes,YMR047C
+Conditional phenotypes,YMR078C
+Conditional phenotypes,YMR094W
+Conditional phenotypes,YMR106C
+Conditional phenotypes,YMR116C
+Conditional phenotypes,YMR137C
+Conditional phenotypes,YMR138W
+Conditional phenotypes,YMR146C
+Conditional phenotypes,YMR154C
+Conditional phenotypes,YMR216C
+Conditional phenotypes,YMR223W
+Conditional phenotypes,YMR235C
+Conditional phenotypes,YMR275C
+Conditional phenotypes,YMR284W
+Conditional phenotypes,YMR294W
+Conditional phenotypes,YMR301C
+Conditional phenotypes,YMR302C
+Conditional phenotypes,YMR304W
+Conditional phenotypes,YMR308C
+Conditional phenotypes,YNL001W
+Conditional phenotypes,YNL007C
+Conditional phenotypes,YNL030W
+Conditional phenotypes,YNL054W
+Conditional phenotypes,YNL062C
+Conditional phenotypes,YNL079C
+Conditional phenotypes,YNL084C
+Conditional phenotypes,YNL098C
+Conditional phenotypes,YNL112W
+Conditional phenotypes,YNL135C
+Conditional phenotypes,YNL137C
+Conditional phenotypes,YNL138W
+Conditional phenotypes,YNL139C
+Conditional phenotypes,YNL151C
+Conditional phenotypes,YNL153C
+Conditional phenotypes,YNL154C
+Conditional phenotypes,YNL189W
+Conditional phenotypes,YNL209W
+Conditional phenotypes,YNL215W
+Conditional phenotypes,YNL221C
+Conditional phenotypes,YNL225C
+Conditional phenotypes,YNL236W
+Conditional phenotypes,YNL243W
+Conditional phenotypes,YNL252C
+Conditional phenotypes,YNL261W
+Conditional phenotypes,YNL287W
+Conditional phenotypes,YNL307C
+Conditional phenotypes,YNL312W
+Conditional phenotypes,YNR010W
+Conditional phenotypes,YNR023W
+Conditional phenotypes,YNR038W
+Conditional phenotypes,YNR052C
+Conditional phenotypes,YOL001W
+Conditional phenotypes,YOL021C
+Conditional phenotypes,YOL022C
+Conditional phenotypes,YOL030W
+Conditional phenotypes,YOL036W
+Conditional phenotypes,YOL049W
+Conditional phenotypes,YOL052C
+Conditional phenotypes,YOL076W
+Conditional phenotypes,YOL086C
+Conditional phenotypes,YOL109W
+Conditional phenotypes,YOL115W
+Conditional phenotypes,YOL145C
+Conditional phenotypes,YOL148C
+Conditional phenotypes,YOR001W
+Conditional phenotypes,YOR014W
+Conditional phenotypes,YOR026W
+Conditional phenotypes,YOR036W
+Conditional phenotypes,YOR061W
+Conditional phenotypes,YOR089C
+Conditional phenotypes,YOR098C
+Conditional phenotypes,YOR106W
+Conditional phenotypes,YOR122C
+Conditional phenotypes,YOR157C
+Conditional phenotypes,YOR160W
+Conditional phenotypes,YOR181W
+Conditional phenotypes,YOR204W
+Conditional phenotypes,YOR208W
+Conditional phenotypes,YOR211C
+Conditional phenotypes,YOR217W
+Conditional phenotypes,YOR249C
+Conditional phenotypes,YOR254C
+Conditional phenotypes,YOR259C
+Conditional phenotypes,YOR269W
+Conditional phenotypes,YOR278W
+Conditional phenotypes,YOR310C
+Conditional phenotypes,YOR326W
+Conditional phenotypes,YOR329C
+Conditional phenotypes,YOR332W
+Conditional phenotypes,YOR336W
+Conditional phenotypes,YOR349W
+Conditional phenotypes,YOR361C
+Conditional phenotypes,YPL031C
+Conditional phenotypes,YPL032C
+Conditional phenotypes,YPL036W
+Conditional phenotypes,YPL043W
+Conditional phenotypes,YPL045W
+Conditional phenotypes,YPL061W
+Conditional phenotypes,YPL069C
+Conditional phenotypes,YPL076W
+Conditional phenotypes,YPL084W
+Conditional phenotypes,YPL086C
+Conditional phenotypes,YPL106C
+Conditional phenotypes,YPL129W
+Conditional phenotypes,YPL140C
+Conditional phenotypes,YPL145C
+Conditional phenotypes,YPL161C
+Conditional phenotypes,YPL172C
+Conditional phenotypes,YPL175W
+Conditional phenotypes,YPL209C
+Conditional phenotypes,YPL210C
+Conditional phenotypes,YPL213W
+Conditional phenotypes,YPL239W
+Conditional phenotypes,YPL240C
+Conditional phenotypes,YPL241C
+Conditional phenotypes,YPL242C
+Conditional phenotypes,YPL243W
+Conditional phenotypes,YPL254W
+Conditional phenotypes,YPL268W
+Conditional phenotypes,YPR019W
+Conditional phenotypes,YPR024W
+Conditional phenotypes,YPR033C
+Conditional phenotypes,YPR051W
+Conditional phenotypes,YPR057W
+Conditional phenotypes,YPR072W
+Conditional phenotypes,YPR086W
+Conditional phenotypes,YPR088C
+Conditional phenotypes,YPR101W
+Conditional phenotypes,YPR103W
+Conditional phenotypes,YPR104C
+Conditional phenotypes,YPR119W
+Conditional phenotypes,YPR133C
+Conditional phenotypes,YPR159W
+Conditional phenotypes,YPR163C
+Conditional phenotypes,YPR165W
+Conditional phenotypes,YPR168W
+Conditional phenotypes,YPR178W
+Conditional phenotypes,YPR190C
+Conditional phenotypes,YPR191W
+Conditional phenotypes,YPR198W
+Conditional phenotypes,YBL071W-A
+Conditional phenotypes,YBR084C-A
+Conditional phenotypes,YDR322C-A
+Conditional phenotypes,YDR363W-A
+Conditional phenotypes,YLR287C-A
+Conditional phenotypes,YPR133W-A
+Cell cycle defects,YAL016W
+Cell cycle defects,YAL020C
+Cell cycle defects,YAL021C
+Cell cycle defects,YAL024C
+Cell cycle defects,YAL025C
+Cell cycle defects,YAL040C
+Cell cycle defects,YAR019C
+Cell cycle defects,YBL020W
+Cell cycle defects,YBL058W
+Cell cycle defects,YBL084C
+Cell cycle defects,YBL105C
+Cell cycle defects,YBR009C
+Cell cycle defects,YBR057C
+Cell cycle defects,YBR079C
+Cell cycle defects,YBR088C
+Cell cycle defects,YBR107C
+Cell cycle defects,YBR109C
+Cell cycle defects,YBR133C
+Cell cycle defects,YBR135W
+Cell cycle defects,YBR136W
+Cell cycle defects,YBR160W
+Cell cycle defects,YBR196C
+Cell cycle defects,YBR200W
+Cell cycle defects,YBR202W
+Cell cycle defects,YCL029C
+Cell cycle defects,YCR077C
+Cell cycle defects,YCR086W
+Cell cycle defects,YCR093W
+Cell cycle defects,YDL003W
+Cell cycle defects,YDL008W
+Cell cycle defects,YDL017W
+Cell cycle defects,YDL028C
+Cell cycle defects,YDL047W
+Cell cycle defects,YDL064W
+Cell cycle defects,YDL087C
+Cell cycle defects,YDL090C
+Cell cycle defects,YDL102W
+Cell cycle defects,YDL126C
+Cell cycle defects,YDL134C
+Cell cycle defects,YDL154W
+Cell cycle defects,YDL164C
+Cell cycle defects,YDL165W
+Cell cycle defects,YDL188C
+Cell cycle defects,YDL220C
+Cell cycle defects,YDL226C
+Cell cycle defects,YDR052C
+Cell cycle defects,YDR054C
+Cell cycle defects,YDR069C
+Cell cycle defects,YDR076W
+Cell cycle defects,YDR113C
+Cell cycle defects,YDR123C
+Cell cycle defects,YDR150W
+Cell cycle defects,YDR168W
+Cell cycle defects,YDR182W
+Cell cycle defects,YDR200C
+Cell cycle defects,YDR217C
+Cell cycle defects,YDR224C
+Cell cycle defects,YDR225W
+Cell cycle defects,YDR254W
+Cell cycle defects,YDR285W
+Cell cycle defects,YDR303C
+Cell cycle defects,YDR328C
+Cell cycle defects,YDR356W
+Cell cycle defects,YDR364C
+Cell cycle defects,YDR457W
+Cell cycle defects,YDR477W
+Cell cycle defects,YDR499W
+Cell cycle defects,YDR507C
+Cell cycle defects,YEL032W
+Cell cycle defects,YER007W
+Cell cycle defects,YER016W
+Cell cycle defects,YER023W
+Cell cycle defects,YER070W
+Cell cycle defects,YER095W
+Cell cycle defects,YER111C
+Cell cycle defects,YER133W
+Cell cycle defects,YER155C
+Cell cycle defects,YER173W
+Cell cycle defects,YER179W
+Cell cycle defects,YFL003C
+Cell cycle defects,YFL008W
+Cell cycle defects,YFL009W
+Cell cycle defects,YFL029C
+Cell cycle defects,YFL033C
+Cell cycle defects,YFL038C
+Cell cycle defects,YFL039C
+Cell cycle defects,YFR019W
+Cell cycle defects,YFR028C
+Cell cycle defects,YFR031C
+Cell cycle defects,YFR052W
+Cell cycle defects,YGL003C
+Cell cycle defects,YGL033W
+Cell cycle defects,YGL048C
+Cell cycle defects,YGL061C
+Cell cycle defects,YGL073W
+Cell cycle defects,YGL106W
+Cell cycle defects,YGL116W
+Cell cycle defects,YGL128C
+Cell cycle defects,YGL155W
+Cell cycle defects,YGL173C
+Cell cycle defects,YGL175C
+Cell cycle defects,YGL207W
+Cell cycle defects,YGL216W
+Cell cycle defects,YGL240W
+Cell cycle defects,YGL249W
+Cell cycle defects,YGR092W
+Cell cycle defects,YGR098C
+Cell cycle defects,YGR108W
+Cell cycle defects,YGR109C
+Cell cycle defects,YGR113W
+Cell cycle defects,YGR116W
+Cell cycle defects,YGR140W
+Cell cycle defects,YGR180C
+Cell cycle defects,YGR229C
+Cell cycle defects,YHL022C
+Cell cycle defects,YHR014W
+Cell cycle defects,YHR023W
+Cell cycle defects,YHR068W
+Cell cycle defects,YHR084W
+Cell cycle defects,YHR101C
+Cell cycle defects,YHR107C
+Cell cycle defects,YHR118C
+Cell cycle defects,YHR124W
+Cell cycle defects,YHR157W
+Cell cycle defects,YHR164C
+Cell cycle defects,YHR165C
+Cell cycle defects,YHR166C
+Cell cycle defects,YHR172W
+Cell cycle defects,YHR205W
+Cell cycle defects,YHR208W
+Cell cycle defects,YIL015W
+Cell cycle defects,YIL106W
+Cell cycle defects,YIL123W
+Cell cycle defects,YIL126W
+Cell cycle defects,YIR006C
+Cell cycle defects,YIR008C
+Cell cycle defects,YIR011C
+Cell cycle defects,YIR024C
+Cell cycle defects,YJL005W
+Cell cycle defects,YJL014W
+Cell cycle defects,YJL026W
+Cell cycle defects,YJL074C
+Cell cycle defects,YJL090C
+Cell cycle defects,YJL097W
+Cell cycle defects,YJL146W
+Cell cycle defects,YJL194W
+Cell cycle defects,YJR006W
+Cell cycle defects,YJR021C
+Cell cycle defects,YJR053W
+Cell cycle defects,YJR068W
+Cell cycle defects,YJR076C
+Cell cycle defects,YJR090C
+Cell cycle defects,YJR094C
+Cell cycle defects,YJR138W
+Cell cycle defects,YKL022C
+Cell cycle defects,YKL042W
+Cell cycle defects,YKL049C
+Cell cycle defects,YKL089W
+Cell cycle defects,YKL113C
+Cell cycle defects,YKL145W
+Cell cycle defects,YKR001C
+Cell cycle defects,YKR048C
+Cell cycle defects,YKR054C
+Cell cycle defects,YKR063C
+Cell cycle defects,YLL004W
+Cell cycle defects,YLR056W
+Cell cycle defects,YLR071C
+Cell cycle defects,YLR079W
+Cell cycle defects,YLR096W
+Cell cycle defects,YLR102C
+Cell cycle defects,YLR103C
+Cell cycle defects,YLR127C
+Cell cycle defects,YLR175W
+Cell cycle defects,YLR212C
+Cell cycle defects,YLR234W
+Cell cycle defects,YLR274W
+Cell cycle defects,YLR292C
+Cell cycle defects,YLR305C
+Cell cycle defects,YLR310C
+Cell cycle defects,YLR314C
+Cell cycle defects,YLR321C
+Cell cycle defects,YLR329W
+Cell cycle defects,YLR371W
+Cell cycle defects,YLR399C
+Cell cycle defects,YLR442C
+Cell cycle defects,YML008C
+Cell cycle defects,YML031W
+Cell cycle defects,YML064C
+Cell cycle defects,YML104C
+Cell cycle defects,YML115C
+Cell cycle defects,YMR001C
+Cell cycle defects,YMR032W
+Cell cycle defects,YMR036C
+Cell cycle defects,YMR052W
+Cell cycle defects,YMR055C
+Cell cycle defects,YMR094W
+Cell cycle defects,YMR133W
+Cell cycle defects,YMR138W
+Cell cycle defects,YMR167W
+Cell cycle defects,YMR168C
+Cell cycle defects,YMR198W
+Cell cycle defects,YMR213W
+Cell cycle defects,YMR224C
+Cell cycle defects,YMR284W
+Cell cycle defects,YMR294W
+Cell cycle defects,YNL001W
+Cell cycle defects,YNL025C
+Cell cycle defects,YNL102W
+Cell cycle defects,YNL126W
+Cell cycle defects,YNL172W
+Cell cycle defects,YNL188W
+Cell cycle defects,YNL189W
+Cell cycle defects,YNL210W
+Cell cycle defects,YNL225C
+Cell cycle defects,YNL250W
+Cell cycle defects,YNL271C
+Cell cycle defects,YNL292W
+Cell cycle defects,YNL298W
+Cell cycle defects,YNL327W
+Cell cycle defects,YNR010W
+Cell cycle defects,YNR052C
+Cell cycle defects,YOL004W
+Cell cycle defects,YOL006C
+Cell cycle defects,YOL069W
+Cell cycle defects,YOL104C
+Cell cycle defects,YOL145C
+Cell cycle defects,YOR005C
+Cell cycle defects,YOR014W
+Cell cycle defects,YOR026W
+Cell cycle defects,YOR028C
+Cell cycle defects,YOR043W
+Cell cycle defects,YOR098C
+Cell cycle defects,YOR181W
+Cell cycle defects,YOR190W
+Cell cycle defects,YOR195W
+Cell cycle defects,YOR198C
+Cell cycle defects,YOR217W
+Cell cycle defects,YOR249C
+Cell cycle defects,YOR254C
+Cell cycle defects,YOR257W
+Cell cycle defects,YOR259C
+Cell cycle defects,YOR269W
+Cell cycle defects,YOR349W
+Cell cycle defects,YOR351C
+Cell cycle defects,YOR361C
+Cell cycle defects,YPL008W
+Cell cycle defects,YPL018W
+Cell cycle defects,YPL042C
+Cell cycle defects,YPL121C
+Cell cycle defects,YPL153C
+Cell cycle defects,YPL161C
+Cell cycle defects,YPL174C
+Cell cycle defects,YPL178W
+Cell cycle defects,YPL209C
+Cell cycle defects,YPL241C
+Cell cycle defects,YPL242C
+Cell cycle defects,YPL255W
+Cell cycle defects,YPL256C
+Cell cycle defects,YPL268W
+Cell cycle defects,YPL269W
+Cell cycle defects,YPR016C
+Cell cycle defects,YPR019W
+Cell cycle defects,YPR082C
+Cell cycle defects,YPR103W
+Cell cycle defects,YPR120C
+Cell cycle defects,YPR135W
+Cell cycle defects,YPR141C
+Cell cycle defects,YPR165W
+Cell cycle defects,YBL071W-A
+Cell cycle defects,YDR363W-A
+Cell cycle defects,YER044C-A
+Cell cycle defects,YHR079C-A
+Mating and sporulation defects,YAL009W
+Mating and sporulation defects,YAL013W
+Mating and sporulation defects,YAL024C
+Mating and sporulation defects,YAL029C
+Mating and sporulation defects,YAL041W
+Mating and sporulation defects,YAR007C
+Mating and sporulation defects,YBL015W
+Mating and sporulation defects,YBL052C
+Mating and sporulation defects,YBL058W
+Mating and sporulation defects,YBL061C
+Mating and sporulation defects,YBL066C
+Mating and sporulation defects,YBL078C
+Mating and sporulation defects,YBR040W
+Mating and sporulation defects,YBR045C
+Mating and sporulation defects,YBR057C
+Mating and sporulation defects,YBR073W
+Mating and sporulation defects,YBR081C
+Mating and sporulation defects,YBR126C
+Mating and sporulation defects,YBR130C
+Mating and sporulation defects,YBR158W
+Mating and sporulation defects,YBR171W
+Mating and sporulation defects,YBR173C
+Mating and sporulation defects,YBR200W
+Mating and sporulation defects,YCL055W
+Mating and sporulation defects,YCR009C
+Mating and sporulation defects,YCR034W
+Mating and sporulation defects,YCR044C
+Mating and sporulation defects,YCR086W
+Mating and sporulation defects,YCR088W
+Mating and sporulation defects,YCR089W
+Mating and sporulation defects,YDL006W
+Mating and sporulation defects,YDL040C
+Mating and sporulation defects,YDL106C
+Mating and sporulation defects,YDL116W
+Mating and sporulation defects,YDL154W
+Mating and sporulation defects,YDL192W
+Mating and sporulation defects,YDR002W
+Mating and sporulation defects,YDR085C
+Mating and sporulation defects,YDR103W
+Mating and sporulation defects,YDR108W
+Mating and sporulation defects,YDR123C
+Mating and sporulation defects,YDR150W
+Mating and sporulation defects,YDR173C
+Mating and sporulation defects,YDR207C
+Mating and sporulation defects,YDR218C
+Mating and sporulation defects,YDR224C
+Mating and sporulation defects,YDR225W
+Mating and sporulation defects,YDR264C
+Mating and sporulation defects,YDR285W
+Mating and sporulation defects,YDR388W
+Mating and sporulation defects,YDR392W
+Mating and sporulation defects,YDR410C
+Mating and sporulation defects,YDR523C
+Mating and sporulation defects,YER068W
+Mating and sporulation defects,YER095W
+Mating and sporulation defects,YER133W
+Mating and sporulation defects,YER149C
+Mating and sporulation defects,YER172C
+Mating and sporulation defects,YER179W
+Mating and sporulation defects,YFL003C
+Mating and sporulation defects,YFL026W
+Mating and sporulation defects,YFL033C
+Mating and sporulation defects,YFL037W
+Mating and sporulation defects,YFL038C
+Mating and sporulation defects,YFL059W
+Mating and sporulation defects,YGL071W
+Mating and sporulation defects,YGL090W
+Mating and sporulation defects,YGL100W
+Mating and sporulation defects,YGL173C
+Mating and sporulation defects,YGL178W
+Mating and sporulation defects,YGL180W
+Mating and sporulation defects,YGL213C
+Mating and sporulation defects,YGL225W
+Mating and sporulation defects,YGL253W
+Mating and sporulation defects,YGR023W
+Mating and sporulation defects,YGR044C
+Mating and sporulation defects,YGR059W
+Mating and sporulation defects,YGR078C
+Mating and sporulation defects,YGR109C
+Mating and sporulation defects,YGR253C
+Mating and sporulation defects,YHL007C
+Mating and sporulation defects,YHR004C
+Mating and sporulation defects,YHR005C
+Mating and sporulation defects,YHR013C
+Mating and sporulation defects,YHR014W
+Mating and sporulation defects,YHR086W
+Mating and sporulation defects,YHR119W
+Mating and sporulation defects,YHR139C
+Mating and sporulation defects,YHR157W
+Mating and sporulation defects,YHR158C
+Mating and sporulation defects,YHR184W
+Mating and sporulation defects,YIL033C
+Mating and sporulation defects,YIL048W
+Mating and sporulation defects,YIL072W
+Mating and sporulation defects,YIL073C
+Mating and sporulation defects,YIL084C
+Mating and sporulation defects,YIL128W
+Mating and sporulation defects,YIL129C
+Mating and sporulation defects,YIL154C
+Mating and sporulation defects,YIR008C
+Mating and sporulation defects,YIR026C
+Mating and sporulation defects,YJL005W
+Mating and sporulation defects,YJL054W
+Mating and sporulation defects,YJL073W
+Mating and sporulation defects,YJL092W
+Mating and sporulation defects,YJL095W
+Mating and sporulation defects,YJL157C
+Mating and sporulation defects,YJL174W
+Mating and sporulation defects,YJL204C
+Mating and sporulation defects,YJR042W
+Mating and sporulation defects,YKL045W
+Mating and sporulation defects,YKL130C
+Mating and sporulation defects,YKL165C
+Mating and sporulation defects,YKL184W
+Mating and sporulation defects,YKR031C
+Mating and sporulation defects,YKR082W
+Mating and sporulation defects,YLL001W
+Mating and sporulation defects,YLL021W
+Mating and sporulation defects,YLL039C
+Mating and sporulation defects,YLL040C
+Mating and sporulation defects,YLR025W
+Mating and sporulation defects,YLR055C
+Mating and sporulation defects,YLR127C
+Mating and sporulation defects,YLR148W
+Mating and sporulation defects,YLR195C
+Mating and sporulation defects,YLR229C
+Mating and sporulation defects,YLR234W
+Mating and sporulation defects,YLR263W
+Mating and sporulation defects,YLR292C
+Mating and sporulation defects,YLR310C
+Mating and sporulation defects,YLR313C
+Mating and sporulation defects,YLR332W
+Mating and sporulation defects,YLR362W
+Mating and sporulation defects,YLR371W
+Mating and sporulation defects,YLR418C
+Mating and sporulation defects,YLR433C
+Mating and sporulation defects,YLR452C
+Mating and sporulation defects,YML057W
+Mating and sporulation defects,YML115C
+Mating and sporulation defects,YML124C
+Mating and sporulation defects,YMR065W
+Mating and sporulation defects,YMR096W
+Mating and sporulation defects,YMR139W
+Mating and sporulation defects,YMR154C
+Mating and sporulation defects,YMR167W
+Mating and sporulation defects,YMR231W
+Mating and sporulation defects,YMR263W
+Mating and sporulation defects,YNL001W
+Mating and sporulation defects,YNL027W
+Mating and sporulation defects,YNL053W
+Mating and sporulation defects,YNL079C
+Mating and sporulation defects,YNL084C
+Mating and sporulation defects,YNL098C
+Mating and sporulation defects,YNL153C
+Mating and sporulation defects,YNL192W
+Mating and sporulation defects,YNL223W
+Mating and sporulation defects,YNL225C
+Mating and sporulation defects,YNL238W
+Mating and sporulation defects,YNL250W
+Mating and sporulation defects,YNL271C
+Mating and sporulation defects,YNL291C
+Mating and sporulation defects,YNL325C
+Mating and sporulation defects,YNL330C
+Mating and sporulation defects,YNR007C
+Mating and sporulation defects,YNR019W
+Mating and sporulation defects,YNR052C
+Mating and sporulation defects,YOL004W
+Mating and sporulation defects,YOL051W
+Mating and sporulation defects,YOL081W
+Mating and sporulation defects,YOL091W
+Mating and sporulation defects,YOL104C
+Mating and sporulation defects,YOL139C
+Mating and sporulation defects,YOL145C
+Mating and sporulation defects,YOL148C
+Mating and sporulation defects,YOR005C
+Mating and sporulation defects,YOR035C
+Mating and sporulation defects,YOR036W
+Mating and sporulation defects,YOR075W
+Mating and sporulation defects,YOR212W
+Mating and sporulation defects,YOR254C
+Mating and sporulation defects,YOR298W
+Mating and sporulation defects,YOR344C
+Mating and sporulation defects,YOR351C
+Mating and sporulation defects,YOR361C
+Mating and sporulation defects,YPL002C
+Mating and sporulation defects,YPL031C
+Mating and sporulation defects,YPL045W
+Mating and sporulation defects,YPL082C
+Mating and sporulation defects,YPL129W
+Mating and sporulation defects,YPR054W
+Mating and sporulation defects,YPR103W
+Mating and sporulation defects,YPR113W
+Mating and sporulation defects,YPR120C
+Mating and sporulation defects,YPR122W
+Mating and sporulation defects,YPR165W
+Mating and sporulation defects,YPR173C
+Mating and sporulation defects,YPR198W
+Mating and sporulation defects,YCR028C-A
+"Auxotrophies, carbon and nitrogen utilization defects",Q0250
+"Auxotrophies, carbon and nitrogen utilization defects",YAL013W
+"Auxotrophies, carbon and nitrogen utilization defects",YAL021C
+"Auxotrophies, carbon and nitrogen utilization defects",YBL002W
+"Auxotrophies, carbon and nitrogen utilization defects",YBL003C
+"Auxotrophies, carbon and nitrogen utilization defects",YBL022C
+"Auxotrophies, carbon and nitrogen utilization defects",YBL030C
+"Auxotrophies, carbon and nitrogen utilization defects",YBL058W
+"Auxotrophies, carbon and nitrogen utilization defects",YBL080C
+"Auxotrophies, carbon and nitrogen utilization defects",YBL099W
+"Auxotrophies, carbon and nitrogen utilization defects",YBR009C
+"Auxotrophies, carbon and nitrogen utilization defects",YBR010W
+"Auxotrophies, carbon and nitrogen utilization defects",YBR037C
+"Auxotrophies, carbon and nitrogen utilization defects",YBR039W
+"Auxotrophies, carbon and nitrogen utilization defects",YBR044C
+"Auxotrophies, carbon and nitrogen utilization defects",YBR081C
+"Auxotrophies, carbon and nitrogen utilization defects",YBR106W
+"Auxotrophies, carbon and nitrogen utilization defects",YBR126C
+"Auxotrophies, carbon and nitrogen utilization defects",YBR127C
+"Auxotrophies, carbon and nitrogen utilization defects",YBR132C
+"Auxotrophies, carbon and nitrogen utilization defects",YBR143C
+"Auxotrophies, carbon and nitrogen utilization defects",YBR146W
+"Auxotrophies, carbon and nitrogen utilization defects",YBR179C
+"Auxotrophies, carbon and nitrogen utilization defects",YBR185C
+"Auxotrophies, carbon and nitrogen utilization defects",YBR192W
+"Auxotrophies, carbon and nitrogen utilization defects",YBR196C
+"Auxotrophies, carbon and nitrogen utilization defects",YBR256C
+"Auxotrophies, carbon and nitrogen utilization defects",YBR290W
+"Auxotrophies, carbon and nitrogen utilization defects",YBR294W
+"Auxotrophies, carbon and nitrogen utilization defects",YCR003W
+"Auxotrophies, carbon and nitrogen utilization defects",YCR005C
+"Auxotrophies, carbon and nitrogen utilization defects",YCR009C
+"Auxotrophies, carbon and nitrogen utilization defects",YCR020C
+"Auxotrophies, carbon and nitrogen utilization defects",YCR024C
+"Auxotrophies, carbon and nitrogen utilization defects",YCR046C
+"Auxotrophies, carbon and nitrogen utilization defects",YCR071C
+"Auxotrophies, carbon and nitrogen utilization defects",YDL004W
+"Auxotrophies, carbon and nitrogen utilization defects",YDL005C
+"Auxotrophies, carbon and nitrogen utilization defects",YDL006W
+"Auxotrophies, carbon and nitrogen utilization defects",YDL120W
+"Auxotrophies, carbon and nitrogen utilization defects",YDL194W
+"Auxotrophies, carbon and nitrogen utilization defects",YDL202W
+"Auxotrophies, carbon and nitrogen utilization defects",YDL212W
+"Auxotrophies, carbon and nitrogen utilization defects",YDL215C
+"Auxotrophies, carbon and nitrogen utilization defects",YDR009W
+"Auxotrophies, carbon and nitrogen utilization defects",YDR028C
+"Auxotrophies, carbon and nitrogen utilization defects",YDR034C
+"Auxotrophies, carbon and nitrogen utilization defects",YDR079W
+"Auxotrophies, carbon and nitrogen utilization defects",YDR081C
+"Auxotrophies, carbon and nitrogen utilization defects",YDR138W
+"Auxotrophies, carbon and nitrogen utilization defects",YDR172W
+"Auxotrophies, carbon and nitrogen utilization defects",YDR178W
+"Auxotrophies, carbon and nitrogen utilization defects",YDR225W
+"Auxotrophies, carbon and nitrogen utilization defects",YDR226W
+"Auxotrophies, carbon and nitrogen utilization defects",YDR277C
+"Auxotrophies, carbon and nitrogen utilization defects",YDR298C
+"Auxotrophies, carbon and nitrogen utilization defects",YDR337W
+"Auxotrophies, carbon and nitrogen utilization defects",YDR342C
+"Auxotrophies, carbon and nitrogen utilization defects",YDR343C
+"Auxotrophies, carbon and nitrogen utilization defects",YDR345C
+"Auxotrophies, carbon and nitrogen utilization defects",YDR347W
+"Auxotrophies, carbon and nitrogen utilization defects",YDR375C
+"Auxotrophies, carbon and nitrogen utilization defects",YDR376W
+"Auxotrophies, carbon and nitrogen utilization defects",YDR377W
+"Auxotrophies, carbon and nitrogen utilization defects",YDR405W
+"Auxotrophies, carbon and nitrogen utilization defects",YDR456W
+"Auxotrophies, carbon and nitrogen utilization defects",YDR477W
+"Auxotrophies, carbon and nitrogen utilization defects",YDR529C
+"Auxotrophies, carbon and nitrogen utilization defects",YEL024W
+"Auxotrophies, carbon and nitrogen utilization defects",YEL027W
+"Auxotrophies, carbon and nitrogen utilization defects",YEL046C
+"Auxotrophies, carbon and nitrogen utilization defects",YEL050C
+"Auxotrophies, carbon and nitrogen utilization defects",YER003C
+"Auxotrophies, carbon and nitrogen utilization defects",YER008C
+"Auxotrophies, carbon and nitrogen utilization defects",YER014W
+"Auxotrophies, carbon and nitrogen utilization defects",YER015W
+"Auxotrophies, carbon and nitrogen utilization defects",YER017C
+"Auxotrophies, carbon and nitrogen utilization defects",YER026C
+"Auxotrophies, carbon and nitrogen utilization defects",YER058W
+"Auxotrophies, carbon and nitrogen utilization defects",YER065C
+"Auxotrophies, carbon and nitrogen utilization defects",YER091C
+"Auxotrophies, carbon and nitrogen utilization defects",YER120W
+"Auxotrophies, carbon and nitrogen utilization defects",YER133W
+"Auxotrophies, carbon and nitrogen utilization defects",YER141W
+"Auxotrophies, carbon and nitrogen utilization defects",YER153C
+"Auxotrophies, carbon and nitrogen utilization defects",YER154W
+"Auxotrophies, carbon and nitrogen utilization defects",YER178W
+"Auxotrophies, carbon and nitrogen utilization defects",YFL016C
+"Auxotrophies, carbon and nitrogen utilization defects",YFL031W
+"Auxotrophies, carbon and nitrogen utilization defects",YFR033C
+"Auxotrophies, carbon and nitrogen utilization defects",YGL018C
+"Auxotrophies, carbon and nitrogen utilization defects",YGL035C
+"Auxotrophies, carbon and nitrogen utilization defects",YGL040C
+"Auxotrophies, carbon and nitrogen utilization defects",YGL115W
+"Auxotrophies, carbon and nitrogen utilization defects",YGL119W
+"Auxotrophies, carbon and nitrogen utilization defects",YGL125W
+"Auxotrophies, carbon and nitrogen utilization defects",YGL167C
+"Auxotrophies, carbon and nitrogen utilization defects",YGL191W
+"Auxotrophies, carbon and nitrogen utilization defects",YGL252C
+"Auxotrophies, carbon and nitrogen utilization defects",YGR061C
+"Auxotrophies, carbon and nitrogen utilization defects",YGR062C
+"Auxotrophies, carbon and nitrogen utilization defects",YGR094W
+"Auxotrophies, carbon and nitrogen utilization defects",YGR112W
+"Auxotrophies, carbon and nitrogen utilization defects",YGR155W
+"Auxotrophies, carbon and nitrogen utilization defects",YGR171C
+"Auxotrophies, carbon and nitrogen utilization defects",YGR174C
+"Auxotrophies, carbon and nitrogen utilization defects",YGR180C
+"Auxotrophies, carbon and nitrogen utilization defects",YGR183C
+"Auxotrophies, carbon and nitrogen utilization defects",YGR222W
+"Auxotrophies, carbon and nitrogen utilization defects",YGR244C
+"Auxotrophies, carbon and nitrogen utilization defects",YHL038C
+"Auxotrophies, carbon and nitrogen utilization defects",YHR030C
+"Auxotrophies, carbon and nitrogen utilization defects",YHR038W
+"Auxotrophies, carbon and nitrogen utilization defects",YHR047C
+"Auxotrophies, carbon and nitrogen utilization defects",YHR060W
+"Auxotrophies, carbon and nitrogen utilization defects",YHR120W
+"Auxotrophies, carbon and nitrogen utilization defects",YHR147C
+"Auxotrophies, carbon and nitrogen utilization defects",YHR193C
+"Auxotrophies, carbon and nitrogen utilization defects",YIL033C
+"Auxotrophies, carbon and nitrogen utilization defects",YIL051C
+"Auxotrophies, carbon and nitrogen utilization defects",YIL126W
+"Auxotrophies, carbon and nitrogen utilization defects",YIL128W
+"Auxotrophies, carbon and nitrogen utilization defects",YIL162W
+"Auxotrophies, carbon and nitrogen utilization defects",YIR017C
+"Auxotrophies, carbon and nitrogen utilization defects",YIR021W
+"Auxotrophies, carbon and nitrogen utilization defects",YJL005W
+"Auxotrophies, carbon and nitrogen utilization defects",YJL023C
+"Auxotrophies, carbon and nitrogen utilization defects",YJL063C
+"Auxotrophies, carbon and nitrogen utilization defects",YJL087C
+"Auxotrophies, carbon and nitrogen utilization defects",YJL095W
+"Auxotrophies, carbon and nitrogen utilization defects",YJL208C
+"Auxotrophies, carbon and nitrogen utilization defects",YJL209W
+"Auxotrophies, carbon and nitrogen utilization defects",YJR025C
+"Auxotrophies, carbon and nitrogen utilization defects",YJR034W
+"Auxotrophies, carbon and nitrogen utilization defects",YJR040W
+"Auxotrophies, carbon and nitrogen utilization defects",YJR060W
+"Auxotrophies, carbon and nitrogen utilization defects",YJR122W
+"Auxotrophies, carbon and nitrogen utilization defects",YKL011C
+"Auxotrophies, carbon and nitrogen utilization defects",YKL032C
+"Auxotrophies, carbon and nitrogen utilization defects",YKL055C
+"Auxotrophies, carbon and nitrogen utilization defects",YKL085W
+"Auxotrophies, carbon and nitrogen utilization defects",YKL087C
+"Auxotrophies, carbon and nitrogen utilization defects",YKL093W
+"Auxotrophies, carbon and nitrogen utilization defects",YKL109W
+"Auxotrophies, carbon and nitrogen utilization defects",YKL134C
+"Auxotrophies, carbon and nitrogen utilization defects",YKL148C
+"Auxotrophies, carbon and nitrogen utilization defects",YKL154W
+"Auxotrophies, carbon and nitrogen utilization defects",YKL167C
+"Auxotrophies, carbon and nitrogen utilization defects",YKL192C
+"Auxotrophies, carbon and nitrogen utilization defects",YKL208W
+"Auxotrophies, carbon and nitrogen utilization defects",YKL212W
+"Auxotrophies, carbon and nitrogen utilization defects",YKR031C
+"Auxotrophies, carbon and nitrogen utilization defects",YLL006W
+"Auxotrophies, carbon and nitrogen utilization defects",YLL009C
+"Auxotrophies, carbon and nitrogen utilization defects",YLL041C
+"Auxotrophies, carbon and nitrogen utilization defects",YLR025W
+"Auxotrophies, carbon and nitrogen utilization defects",YLR038C
+"Auxotrophies, carbon and nitrogen utilization defects",YLR067C
+"Auxotrophies, carbon and nitrogen utilization defects",YLR071C
+"Auxotrophies, carbon and nitrogen utilization defects",YLR139C
+"Auxotrophies, carbon and nitrogen utilization defects",YLR150W
+"Auxotrophies, carbon and nitrogen utilization defects",YLR295C
+"Auxotrophies, carbon and nitrogen utilization defects",YLR304C
+"Auxotrophies, carbon and nitrogen utilization defects",YLR355C
+"Auxotrophies, carbon and nitrogen utilization defects",YLR359W
+"Auxotrophies, carbon and nitrogen utilization defects",YLR369W
+"Auxotrophies, carbon and nitrogen utilization defects",YLR377C
+"Auxotrophies, carbon and nitrogen utilization defects",YLR382C
+"Auxotrophies, carbon and nitrogen utilization defects",YLR396C
+"Auxotrophies, carbon and nitrogen utilization defects",YLR399C
+"Auxotrophies, carbon and nitrogen utilization defects",YLR439W
+"Auxotrophies, carbon and nitrogen utilization defects",YML048W
+"Auxotrophies, carbon and nitrogen utilization defects",YML078W
+"Auxotrophies, carbon and nitrogen utilization defects",YML091C
+"Auxotrophies, carbon and nitrogen utilization defects",YML105C
+"Auxotrophies, carbon and nitrogen utilization defects",YML110C
+"Auxotrophies, carbon and nitrogen utilization defects",YML129C
+"Auxotrophies, carbon and nitrogen utilization defects",YMR021C
+"Auxotrophies, carbon and nitrogen utilization defects",YMR038C
+"Auxotrophies, carbon and nitrogen utilization defects",YMR039C
+"Auxotrophies, carbon and nitrogen utilization defects",YMR060C
+"Auxotrophies, carbon and nitrogen utilization defects",YMR072W
+"Auxotrophies, carbon and nitrogen utilization defects",YMR089C
+"Auxotrophies, carbon and nitrogen utilization defects",YMR145C
+"Auxotrophies, carbon and nitrogen utilization defects",YMR152W
+"Auxotrophies, carbon and nitrogen utilization defects",YMR164C
+"Auxotrophies, carbon and nitrogen utilization defects",YMR165C
+"Auxotrophies, carbon and nitrogen utilization defects",YMR228W
+"Auxotrophies, carbon and nitrogen utilization defects",YMR241W
+"Auxotrophies, carbon and nitrogen utilization defects",YMR256C
+"Auxotrophies, carbon and nitrogen utilization defects",YMR257C
+"Auxotrophies, carbon and nitrogen utilization defects",YMR280C
+"Auxotrophies, carbon and nitrogen utilization defects",YMR282C
+"Auxotrophies, carbon and nitrogen utilization defects",YMR287C
+"Auxotrophies, carbon and nitrogen utilization defects",YMR301C
+"Auxotrophies, carbon and nitrogen utilization defects",YNL003C
+"Auxotrophies, carbon and nitrogen utilization defects",YNL005C
+"Auxotrophies, carbon and nitrogen utilization defects",YNL025C
+"Auxotrophies, carbon and nitrogen utilization defects",YNL037C
+"Auxotrophies, carbon and nitrogen utilization defects",YNL055C
+"Auxotrophies, carbon and nitrogen utilization defects",YNL098C
+"Auxotrophies, carbon and nitrogen utilization defects",YNL103W
+"Auxotrophies, carbon and nitrogen utilization defects",YNL137C
+"Auxotrophies, carbon and nitrogen utilization defects",YNL201C
+"Auxotrophies, carbon and nitrogen utilization defects",YNL241C
+"Auxotrophies, carbon and nitrogen utilization defects",YNR001C
+"Auxotrophies, carbon and nitrogen utilization defects",YNR023W
+"Auxotrophies, carbon and nitrogen utilization defects",YNR033W
+"Auxotrophies, carbon and nitrogen utilization defects",YNR045W
+"Auxotrophies, carbon and nitrogen utilization defects",YNR052C
+"Auxotrophies, carbon and nitrogen utilization defects",YOL001W
+"Auxotrophies, carbon and nitrogen utilization defects",YOL025W
+"Auxotrophies, carbon and nitrogen utilization defects",YOL067C
+"Auxotrophies, carbon and nitrogen utilization defects",YOL096C
+"Auxotrophies, carbon and nitrogen utilization defects",YOL108C
+"Auxotrophies, carbon and nitrogen utilization defects",YOL109W
+"Auxotrophies, carbon and nitrogen utilization defects",YOL116W
+"Auxotrophies, carbon and nitrogen utilization defects",YOL143C
+"Auxotrophies, carbon and nitrogen utilization defects",YOL147C
+"Auxotrophies, carbon and nitrogen utilization defects",YOL148C
+"Auxotrophies, carbon and nitrogen utilization defects",YOR017W
+"Auxotrophies, carbon and nitrogen utilization defects",YOR125C
+"Auxotrophies, carbon and nitrogen utilization defects",YOR136W
+"Auxotrophies, carbon and nitrogen utilization defects",YOR158W
+"Auxotrophies, carbon and nitrogen utilization defects",YOR178C
+"Auxotrophies, carbon and nitrogen utilization defects",YOR184W
+"Auxotrophies, carbon and nitrogen utilization defects",YOR196C
+"Auxotrophies, carbon and nitrogen utilization defects",YOR201C
+"Auxotrophies, carbon and nitrogen utilization defects",YOR221C
+"Auxotrophies, carbon and nitrogen utilization defects",YOR231W
+"Auxotrophies, carbon and nitrogen utilization defects",YOR278W
+"Auxotrophies, carbon and nitrogen utilization defects",YOR330C
+"Auxotrophies, carbon and nitrogen utilization defects",YOR332W
+"Auxotrophies, carbon and nitrogen utilization defects",YOR334W
+"Auxotrophies, carbon and nitrogen utilization defects",YOR355W
+"Auxotrophies, carbon and nitrogen utilization defects",YOR358W
+"Auxotrophies, carbon and nitrogen utilization defects",YPL002C
+"Auxotrophies, carbon and nitrogen utilization defects",YPL029W
+"Auxotrophies, carbon and nitrogen utilization defects",YPL031C
+"Auxotrophies, carbon and nitrogen utilization defects",YPL040C
+"Auxotrophies, carbon and nitrogen utilization defects",YPL042C
+"Auxotrophies, carbon and nitrogen utilization defects",YPL078C
+"Auxotrophies, carbon and nitrogen utilization defects",YPL097W
+"Auxotrophies, carbon and nitrogen utilization defects",YPL104W
+"Auxotrophies, carbon and nitrogen utilization defects",YPL118W
+"Auxotrophies, carbon and nitrogen utilization defects",YPL140C
+"Auxotrophies, carbon and nitrogen utilization defects",YPL148C
+"Auxotrophies, carbon and nitrogen utilization defects",YPL179W
+"Auxotrophies, carbon and nitrogen utilization defects",YPL214C
+"Auxotrophies, carbon and nitrogen utilization defects",YPL254W
+"Auxotrophies, carbon and nitrogen utilization defects",YPL268W
+"Auxotrophies, carbon and nitrogen utilization defects",YPL271W
+"Auxotrophies, carbon and nitrogen utilization defects",YPR024W
+"Auxotrophies, carbon and nitrogen utilization defects",YPR026W
+"Auxotrophies, carbon and nitrogen utilization defects",YPR035W
+"Auxotrophies, carbon and nitrogen utilization defects",YPR051W
+"Auxotrophies, carbon and nitrogen utilization defects",YPR088C
+"Auxotrophies, carbon and nitrogen utilization defects",YPR160W
+"Auxotrophies, carbon and nitrogen utilization defects",YPR166C
+"Auxotrophies, carbon and nitrogen utilization defects",YPR191W
+"Auxotrophies, carbon and nitrogen utilization defects",YPR198W
+"Auxotrophies, carbon and nitrogen utilization defects",YDL045W-A
+"Auxotrophies, carbon and nitrogen utilization defects",YDR322C-A
+"Auxotrophies, carbon and nitrogen utilization defects",YEL059C-A
+"Auxotrophies, carbon and nitrogen utilization defects",YML081C-A
+"Auxotrophies, carbon and nitrogen utilization defects",YPR133W-A
+Cell morphology and organelle mutants,YAL002W
+Cell morphology and organelle mutants,YAL009W
+Cell morphology and organelle mutants,YAL010C
+Cell morphology and organelle mutants,YAL013W
+Cell morphology and organelle mutants,YAL020C
+Cell morphology and organelle mutants,YAL023C
+Cell morphology and organelle mutants,YAL041W
+Cell morphology and organelle mutants,YAL047C
+Cell morphology and organelle mutants,YAL054C
+Cell morphology and organelle mutants,YAL058W
+Cell morphology and organelle mutants,YAL059W
+Cell morphology and organelle mutants,YAL062W
+Cell morphology and organelle mutants,YAR050W
+Cell morphology and organelle mutants,YBL001C
+Cell morphology and organelle mutants,YBL002W
+Cell morphology and organelle mutants,YBL003C
+Cell morphology and organelle mutants,YBL007C
+Cell morphology and organelle mutants,YBL022C
+Cell morphology and organelle mutants,YBL039C
+Cell morphology and organelle mutants,YBL040C
+Cell morphology and organelle mutants,YBL043W
+Cell morphology and organelle mutants,YBL050W
+Cell morphology and organelle mutants,YBL061C
+Cell morphology and organelle mutants,YBL082C
+Cell morphology and organelle mutants,YBL101C
+Cell morphology and organelle mutants,YBL105C
+Cell morphology and organelle mutants,YBR009C
+Cell morphology and organelle mutants,YBR010W
+Cell morphology and organelle mutants,YBR023C
+Cell morphology and organelle mutants,YBR024W
+Cell morphology and organelle mutants,YBR026C
+Cell morphology and organelle mutants,YBR038W
+Cell morphology and organelle mutants,YBR065C
+Cell morphology and organelle mutants,YBR070C
+Cell morphology and organelle mutants,YBR076W
+Cell morphology and organelle mutants,YBR078W
+Cell morphology and organelle mutants,YBR080C
+Cell morphology and organelle mutants,YBR083W
+Cell morphology and organelle mutants,YBR091C
+Cell morphology and organelle mutants,YBR097W
+Cell morphology and organelle mutants,YBR107C
+Cell morphology and organelle mutants,YBR109C
+Cell morphology and organelle mutants,YBR123C
+Cell morphology and organelle mutants,YBR126C
+Cell morphology and organelle mutants,YBR133C
+Cell morphology and organelle mutants,YBR143C
+Cell morphology and organelle mutants,YBR171W
+Cell morphology and organelle mutants,YBR176W
+Cell morphology and organelle mutants,YBR179C
+Cell morphology and organelle mutants,YBR200W
+Cell morphology and organelle mutants,YBR201W
+Cell morphology and organelle mutants,YBR211C
+Cell morphology and organelle mutants,YBR217W
+Cell morphology and organelle mutants,YBR279W
+Cell morphology and organelle mutants,YCL004W
+Cell morphology and organelle mutants,YCL007C
+Cell morphology and organelle mutants,YCL008C
+Cell morphology and organelle mutants,YCL014W
+Cell morphology and organelle mutants,YCL029C
+Cell morphology and organelle mutants,YCL051W
+Cell morphology and organelle mutants,YCR002C
+Cell morphology and organelle mutants,YCR008W
+Cell morphology and organelle mutants,YCR009C
+Cell morphology and organelle mutants,YCR032W
+Cell morphology and organelle mutants,YCR034W
+Cell morphology and organelle mutants,YCR038C
+Cell morphology and organelle mutants,YCR044C
+Cell morphology and organelle mutants,YCR057C
+Cell morphology and organelle mutants,YCR067C
+Cell morphology and organelle mutants,YCR084C
+Cell morphology and organelle mutants,YDL003W
+Cell morphology and organelle mutants,YDL006W
+Cell morphology and organelle mutants,YDL022W
+Cell morphology and organelle mutants,YDL028C
+Cell morphology and organelle mutants,YDL029W
+Cell morphology and organelle mutants,YDL055C
+Cell morphology and organelle mutants,YDL058W
+Cell morphology and organelle mutants,YDL077C
+Cell morphology and organelle mutants,YDL095W
+Cell morphology and organelle mutants,YDL116W
+Cell morphology and organelle mutants,YDL126C
+Cell morphology and organelle mutants,YDL138W
+Cell morphology and organelle mutants,YDL145C
+Cell morphology and organelle mutants,YDL188C
+Cell morphology and organelle mutants,YDL192W
+Cell morphology and organelle mutants,YDL194W
+Cell morphology and organelle mutants,YDL195W
+Cell morphology and organelle mutants,YDL212W
+Cell morphology and organelle mutants,YDL225W
+Cell morphology and organelle mutants,YDL232W
+Cell morphology and organelle mutants,YDR027C
+Cell morphology and organelle mutants,YDR028C
+Cell morphology and organelle mutants,YDR054C
+Cell morphology and organelle mutants,YDR080W
+Cell morphology and organelle mutants,YDR125C
+Cell morphology and organelle mutants,YDR129C
+Cell morphology and organelle mutants,YDR142C
+Cell morphology and organelle mutants,YDR159W
+Cell morphology and organelle mutants,YDR164C
+Cell morphology and organelle mutants,YDR166C
+Cell morphology and organelle mutants,YDR170C
+Cell morphology and organelle mutants,YDR172W
+Cell morphology and organelle mutants,YDR182W
+Cell morphology and organelle mutants,YDR189W
+Cell morphology and organelle mutants,YDR195W
+Cell morphology and organelle mutants,YDR208W
+Cell morphology and organelle mutants,YDR212W
+Cell morphology and organelle mutants,YDR238C
+Cell morphology and organelle mutants,YDR245W
+Cell morphology and organelle mutants,YDR254W
+Cell morphology and organelle mutants,YDR264C
+Cell morphology and organelle mutants,YDR265W
+Cell morphology and organelle mutants,YDR284C
+Cell morphology and organelle mutants,YDR297W
+Cell morphology and organelle mutants,YDR323C
+Cell morphology and organelle mutants,YDR329C
+Cell morphology and organelle mutants,YDR337W
+Cell morphology and organelle mutants,YDR347W
+Cell morphology and organelle mutants,YDR356W
+Cell morphology and organelle mutants,YDR376W
+Cell morphology and organelle mutants,YDR388W
+Cell morphology and organelle mutants,YDR390C
+Cell morphology and organelle mutants,YDR402C
+Cell morphology and organelle mutants,YDR414C
+Cell morphology and organelle mutants,YDR420W
+Cell morphology and organelle mutants,YDR432W
+Cell morphology and organelle mutants,YDR436W
+Cell morphology and organelle mutants,YDR446W
+Cell morphology and organelle mutants,YDR468C
+Cell morphology and organelle mutants,YDR483W
+Cell morphology and organelle mutants,YDR495C
+Cell morphology and organelle mutants,YDR498C
+Cell morphology and organelle mutants,YDR507C
+Cell morphology and organelle mutants,YDR523C
+Cell morphology and organelle mutants,YEL003W
+Cell morphology and organelle mutants,YEL013W
+Cell morphology and organelle mutants,YEL027W
+Cell morphology and organelle mutants,YEL030W
+Cell morphology and organelle mutants,YEL036C
+Cell morphology and organelle mutants,YEL037C
+Cell morphology and organelle mutants,YEL050C
+Cell morphology and organelle mutants,YER007W
+Cell morphology and organelle mutants,YER008C
+Cell morphology and organelle mutants,YER013W
+Cell morphology and organelle mutants,YER014W
+Cell morphology and organelle mutants,YER015W
+Cell morphology and organelle mutants,YER016W
+Cell morphology and organelle mutants,YER020W
+Cell morphology and organelle mutants,YER031C
+Cell morphology and organelle mutants,YER107C
+Cell morphology and organelle mutants,YER109C
+Cell morphology and organelle mutants,YER111C
+Cell morphology and organelle mutants,YER125W
+Cell morphology and organelle mutants,YER133W
+Cell morphology and organelle mutants,YER149C
+Cell morphology and organelle mutants,YER155C
+Cell morphology and organelle mutants,YER176W
+Cell morphology and organelle mutants,YFL009W
+Cell morphology and organelle mutants,YFL025C
+Cell morphology and organelle mutants,YFL029C
+Cell morphology and organelle mutants,YFL036W
+Cell morphology and organelle mutants,YFL037W
+Cell morphology and organelle mutants,YFL038C
+Cell morphology and organelle mutants,YFL039C
+Cell morphology and organelle mutants,YFL045C
+Cell morphology and organelle mutants,YFR019W
+Cell morphology and organelle mutants,YFR033C
+Cell morphology and organelle mutants,YFR051C
+Cell morphology and organelle mutants,YGL027C
+Cell morphology and organelle mutants,YGL028C
+Cell morphology and organelle mutants,YGL055W
+Cell morphology and organelle mutants,YGL061C
+Cell morphology and organelle mutants,YGL071W
+Cell morphology and organelle mutants,YGL073W
+Cell morphology and organelle mutants,YGL092W
+Cell morphology and organelle mutants,YGL095C
+Cell morphology and organelle mutants,YGL097W
+Cell morphology and organelle mutants,YGL106W
+Cell morphology and organelle mutants,YGL137W
+Cell morphology and organelle mutants,YGL145W
+Cell morphology and organelle mutants,YGL155W
+Cell morphology and organelle mutants,YGL167C
+Cell morphology and organelle mutants,YGL173C
+Cell morphology and organelle mutants,YGL180W
+Cell morphology and organelle mutants,YGL181W
+Cell morphology and organelle mutants,YGL190C
+Cell morphology and organelle mutants,YGL200C
+Cell morphology and organelle mutants,YGL210W
+Cell morphology and organelle mutants,YGL212W
+Cell morphology and organelle mutants,YGL216W
+Cell morphology and organelle mutants,YGR008C
+Cell morphology and organelle mutants,YGR009C
+Cell morphology and organelle mutants,YGR036C
+Cell morphology and organelle mutants,YGR041W
+Cell morphology and organelle mutants,YGR078C
+Cell morphology and organelle mutants,YGR080W
+Cell morphology and organelle mutants,YGR098C
+Cell morphology and organelle mutants,YGR099W
+Cell morphology and organelle mutants,YGR105W
+Cell morphology and organelle mutants,YGR113W
+Cell morphology and organelle mutants,YGR120C
+Cell morphology and organelle mutants,YGR152C
+Cell morphology and organelle mutants,YGR155W
+Cell morphology and organelle mutants,YGR166W
+Cell morphology and organelle mutants,YGR172C
+Cell morphology and organelle mutants,YGR180C
+Cell morphology and organelle mutants,YGR188C
+Cell morphology and organelle mutants,YGR195W
+Cell morphology and organelle mutants,YGR214W
+Cell morphology and organelle mutants,YGR216C
+Cell morphology and organelle mutants,YGR229C
+Cell morphology and organelle mutants,YGR253C
+Cell morphology and organelle mutants,YHL007C
+Cell morphology and organelle mutants,YHL027W
+Cell morphology and organelle mutants,YHL030W
+Cell morphology and organelle mutants,YHL031C
+Cell morphology and organelle mutants,YHL043W
+Cell morphology and organelle mutants,YHR004C
+Cell morphology and organelle mutants,YHR023W
+Cell morphology and organelle mutants,YHR030C
+Cell morphology and organelle mutants,YHR041C
+Cell morphology and organelle mutants,YHR084W
+Cell morphology and organelle mutants,YHR101C
+Cell morphology and organelle mutants,YHR102W
+Cell morphology and organelle mutants,YHR107C
+Cell morphology and organelle mutants,YHR119W
+Cell morphology and organelle mutants,YHR129C
+Cell morphology and organelle mutants,YHR132C
+Cell morphology and organelle mutants,YHR135C
+Cell morphology and organelle mutants,YHR158C
+Cell morphology and organelle mutants,YHR171W
+Cell morphology and organelle mutants,YHR172W
+Cell morphology and organelle mutants,YHR187W
+Cell morphology and organelle mutants,YIL002C
+Cell morphology and organelle mutants,YIL004C
+Cell morphology and organelle mutants,YIL022W
+Cell morphology and organelle mutants,YIL026C
+Cell morphology and organelle mutants,YIL031W
+Cell morphology and organelle mutants,YIL034C
+Cell morphology and organelle mutants,YIL049W
+Cell morphology and organelle mutants,YIL051C
+Cell morphology and organelle mutants,YIL068C
+Cell morphology and organelle mutants,YIL085C
+Cell morphology and organelle mutants,YIL106W
+Cell morphology and organelle mutants,YIL115C
+Cell morphology and organelle mutants,YIL126W
+Cell morphology and organelle mutants,YIL140W
+Cell morphology and organelle mutants,YIL142W
+Cell morphology and organelle mutants,YIL146C
+Cell morphology and organelle mutants,YIL147C
+Cell morphology and organelle mutants,YIL150C
+Cell morphology and organelle mutants,YIL154C
+Cell morphology and organelle mutants,YIR004W
+Cell morphology and organelle mutants,YIR006C
+Cell morphology and organelle mutants,YIR019C
+Cell morphology and organelle mutants,YIR030C
+Cell morphology and organelle mutants,YJL013C
+Cell morphology and organelle mutants,YJL014W
+Cell morphology and organelle mutants,YJL033W
+Cell morphology and organelle mutants,YJL042W
+Cell morphology and organelle mutants,YJL053W
+Cell morphology and organelle mutants,YJL062W
+Cell morphology and organelle mutants,YJL080C
+Cell morphology and organelle mutants,YJL095W
+Cell morphology and organelle mutants,YJL099W
+Cell morphology and organelle mutants,YJL128C
+Cell morphology and organelle mutants,YJL165C
+Cell morphology and organelle mutants,YJL166W
+Cell morphology and organelle mutants,YJL174W
+Cell morphology and organelle mutants,YJL194W
+Cell morphology and organelle mutants,YJL201W
+Cell morphology and organelle mutants,YJR017C
+Cell morphology and organelle mutants,YJR034W
+Cell morphology and organelle mutants,YJR042W
+Cell morphology and organelle mutants,YJR051W
+Cell morphology and organelle mutants,YJR060W
+Cell morphology and organelle mutants,YJR065C
+Cell morphology and organelle mutants,YJR068W
+Cell morphology and organelle mutants,YJR075W
+Cell morphology and organelle mutants,YJR076C
+Cell morphology and organelle mutants,YJR090C
+Cell morphology and organelle mutants,YJR092W
+Cell morphology and organelle mutants,YJR106W
+Cell morphology and organelle mutants,YJR137C
+Cell morphology and organelle mutants,YKL004W
+Cell morphology and organelle mutants,YKL007W
+Cell morphology and organelle mutants,YKL025C
+Cell morphology and organelle mutants,YKL048C
+Cell morphology and organelle mutants,YKL057C
+Cell morphology and organelle mutants,YKL080W
+Cell morphology and organelle mutants,YKL089W
+Cell morphology and organelle mutants,YKL092C
+Cell morphology and organelle mutants,YKL096W
+Cell morphology and organelle mutants,YKL110C
+Cell morphology and organelle mutants,YKL149C
+Cell morphology and organelle mutants,YKL184W
+Cell morphology and organelle mutants,YKL185W
+Cell morphology and organelle mutants,YKL186C
+Cell morphology and organelle mutants,YKL190W
+Cell morphology and organelle mutants,YKL196C
+Cell morphology and organelle mutants,YKL197C
+Cell morphology and organelle mutants,YKL203C
+Cell morphology and organelle mutants,YKR001C
+Cell morphology and organelle mutants,YKR004C
+Cell morphology and organelle mutants,YKR009C
+Cell morphology and organelle mutants,YKR031C
+Cell morphology and organelle mutants,YKR048C
+Cell morphology and organelle mutants,YKR054C
+Cell morphology and organelle mutants,YKR061W
+Cell morphology and organelle mutants,YKR068C
+Cell morphology and organelle mutants,YKR076W
+Cell morphology and organelle mutants,YKR082W
+Cell morphology and organelle mutants,YLL001W
+Cell morphology and organelle mutants,YLL006W
+Cell morphology and organelle mutants,YLL021W
+Cell morphology and organelle mutants,YLL043W
+Cell morphology and organelle mutants,YLL050C
+Cell morphology and organelle mutants,YLR026C
+Cell morphology and organelle mutants,YLR075W
+Cell morphology and organelle mutants,YLR078C
+Cell morphology and organelle mutants,YLR093C
+Cell morphology and organelle mutants,YLR148W
+Cell morphology and organelle mutants,YLR182W
+Cell morphology and organelle mutants,YLR191W
+Cell morphology and organelle mutants,YLR200W
+Cell morphology and organelle mutants,YLR208W
+Cell morphology and organelle mutants,YLR212C
+Cell morphology and organelle mutants,YLR229C
+Cell morphology and organelle mutants,YLR240W
+Cell morphology and organelle mutants,YLR249W
+Cell morphology and organelle mutants,YLR262C
+Cell morphology and organelle mutants,YLR268W
+Cell morphology and organelle mutants,YLR288C
+Cell morphology and organelle mutants,YLR292C
+Cell morphology and organelle mutants,YLR299W
+Cell morphology and organelle mutants,YLR305C
+Cell morphology and organelle mutants,YLR310C
+Cell morphology and organelle mutants,YLR314C
+Cell morphology and organelle mutants,YLR319C
+Cell morphology and organelle mutants,YLR330W
+Cell morphology and organelle mutants,YLR337C
+Cell morphology and organelle mutants,YLR342W
+Cell morphology and organelle mutants,YLR353W
+Cell morphology and organelle mutants,YLR369W
+Cell morphology and organelle mutants,YLR371W
+Cell morphology and organelle mutants,YLR372W
+Cell morphology and organelle mutants,YLR378C
+Cell morphology and organelle mutants,YLR384C
+Cell morphology and organelle mutants,YLR390W
+Cell morphology and organelle mutants,YLR396C
+Cell morphology and organelle mutants,YLR399C
+Cell morphology and organelle mutants,YLR429W
+Cell morphology and organelle mutants,YLR433C
+Cell morphology and organelle mutants,YLR436C
+Cell morphology and organelle mutants,YLR439W
+Cell morphology and organelle mutants,YLR443W
+Cell morphology and organelle mutants,YLR447C
+Cell morphology and organelle mutants,YML001W
+Cell morphology and organelle mutants,YML008C
+Cell morphology and organelle mutants,YML012W
+Cell morphology and organelle mutants,YML016C
+Cell morphology and organelle mutants,YML031W
+Cell morphology and organelle mutants,YML048W
+Cell morphology and organelle mutants,YML085C
+Cell morphology and organelle mutants,YML094W
+Cell morphology and organelle mutants,YML097C
+Cell morphology and organelle mutants,YML104C
+Cell morphology and organelle mutants,YML115C
+Cell morphology and organelle mutants,YML124C
+Cell morphology and organelle mutants,YML130C
+Cell morphology and organelle mutants,YMR013C
+Cell morphology and organelle mutants,YMR016C
+Cell morphology and organelle mutants,YMR038C
+Cell morphology and organelle mutants,YMR047C
+Cell morphology and organelle mutants,YMR062C
+Cell morphology and organelle mutants,YMR079W
+Cell morphology and organelle mutants,YMR100W
+Cell morphology and organelle mutants,YMR116C
+Cell morphology and organelle mutants,YMR128W
+Cell morphology and organelle mutants,YMR138W
+Cell morphology and organelle mutants,YMR154C
+Cell morphology and organelle mutants,YMR165C
+Cell morphology and organelle mutants,YMR173W
+Cell morphology and organelle mutants,YMR176W
+Cell morphology and organelle mutants,YMR197C
+Cell morphology and organelle mutants,YMR214W
+Cell morphology and organelle mutants,YMR224C
+Cell morphology and organelle mutants,YMR231W
+Cell morphology and organelle mutants,YMR234W
+Cell morphology and organelle mutants,YMR235C
+Cell morphology and organelle mutants,YMR238W
+Cell morphology and organelle mutants,YMR273C
+Cell morphology and organelle mutants,YMR287C
+Cell morphology and organelle mutants,YMR294W
+Cell morphology and organelle mutants,YMR307W
+Cell morphology and organelle mutants,YNL001W
+Cell morphology and organelle mutants,YNL020C
+Cell morphology and organelle mutants,YNL025C
+Cell morphology and organelle mutants,YNL029C
+Cell morphology and organelle mutants,YNL032W
+Cell morphology and organelle mutants,YNL054W
+Cell morphology and organelle mutants,YNL064C
+Cell morphology and organelle mutants,YNL076W
+Cell morphology and organelle mutants,YNL079C
+Cell morphology and organelle mutants,YNL084C
+Cell morphology and organelle mutants,YNL090W
+Cell morphology and organelle mutants,YNL093W
+Cell morphology and organelle mutants,YNL106C
+Cell morphology and organelle mutants,YNL126W
+Cell morphology and organelle mutants,YNL138W
+Cell morphology and organelle mutants,YNL142W
+Cell morphology and organelle mutants,YNL148C
+Cell morphology and organelle mutants,YNL153C
+Cell morphology and organelle mutants,YNL154C
+Cell morphology and organelle mutants,YNL172W
+Cell morphology and organelle mutants,YNL188W
+Cell morphology and organelle mutants,YNL192W
+Cell morphology and organelle mutants,YNL197C
+Cell morphology and organelle mutants,YNL219C
+Cell morphology and organelle mutants,YNL225C
+Cell morphology and organelle mutants,YNL229C
+Cell morphology and organelle mutants,YNL233W
+Cell morphology and organelle mutants,YNL236W
+Cell morphology and organelle mutants,YNL243W
+Cell morphology and organelle mutants,YNL252C
+Cell morphology and organelle mutants,YNL271C
+Cell morphology and organelle mutants,YNL287W
+Cell morphology and organelle mutants,YNL298W
+Cell morphology and organelle mutants,YNL307C
+Cell morphology and organelle mutants,YNL322C
+Cell morphology and organelle mutants,YNL329C
+Cell morphology and organelle mutants,YNR003C
+Cell morphology and organelle mutants,YNR006W
+Cell morphology and organelle mutants,YNR007C
+Cell morphology and organelle mutants,YNR026C
+Cell morphology and organelle mutants,YNR030W
+Cell morphology and organelle mutants,YNR031C
+Cell morphology and organelle mutants,YOL001W
+Cell morphology and organelle mutants,YOL018C
+Cell morphology and organelle mutants,YOL023W
+Cell morphology and organelle mutants,YOL025W
+Cell morphology and organelle mutants,YOL044W
+Cell morphology and organelle mutants,YOL052C
+Cell morphology and organelle mutants,YOL076W
+Cell morphology and organelle mutants,YOL096C
+Cell morphology and organelle mutants,YOL115W
+Cell morphology and organelle mutants,YOL116W
+Cell morphology and organelle mutants,YOL145C
+Cell morphology and organelle mutants,YOL147C
+Cell morphology and organelle mutants,YOR008C
+Cell morphology and organelle mutants,YOR014W
+Cell morphology and organelle mutants,YOR030W
+Cell morphology and organelle mutants,YOR035C
+Cell morphology and organelle mutants,YOR036W
+Cell morphology and organelle mutants,YOR058C
+Cell morphology and organelle mutants,YOR061W
+Cell morphology and organelle mutants,YOR069W
+Cell morphology and organelle mutants,YOR075W
+Cell morphology and organelle mutants,YOR089C
+Cell morphology and organelle mutants,YOR092W
+Cell morphology and organelle mutants,YOR098C
+Cell morphology and organelle mutants,YOR099W
+Cell morphology and organelle mutants,YOR106W
+Cell morphology and organelle mutants,YOR109W
+Cell morphology and organelle mutants,YOR122C
+Cell morphology and organelle mutants,YOR127W
+Cell morphology and organelle mutants,YOR132W
+Cell morphology and organelle mutants,YOR140W
+Cell morphology and organelle mutants,YOR158W
+Cell morphology and organelle mutants,YOR181W
+Cell morphology and organelle mutants,YOR195W
+Cell morphology and organelle mutants,YOR198C
+Cell morphology and organelle mutants,YOR211C
+Cell morphology and organelle mutants,YOR257W
+Cell morphology and organelle mutants,YOR265W
+Cell morphology and organelle mutants,YOR270C
+Cell morphology and organelle mutants,YOR299W
+Cell morphology and organelle mutants,YOR322C
+Cell morphology and organelle mutants,YOR326
+Cell morphology and organelle mutants,YOR329C
+Cell morphology and organelle mutants,YOR332W
+Cell morphology and organelle mutants,YOR336W
+Cell morphology and organelle mutants,YOR341W
+Cell morphology and organelle mutants,YOR349W
+Cell morphology and organelle mutants,YOR363C
+Cell morphology and organelle mutants,YPL018W
+Cell morphology and organelle mutants,YPL021W
+Cell morphology and organelle mutants,YPL031C
+Cell morphology and organelle mutants,YPL032C
+Cell morphology and organelle mutants,YPL042C
+Cell morphology and organelle mutants,YPL045W
+Cell morphology and organelle mutants,YPL049C
+Cell morphology and organelle mutants,YPL050C
+Cell morphology and organelle mutants,YPL053C
+Cell morphology and organelle mutants,YPL057C
+Cell morphology and organelle mutants,YPL065W
+Cell morphology and organelle mutants,YPL084W
+Cell morphology and organelle mutants,YPL129W
+Cell morphology and organelle mutants,YPL132W
+Cell morphology and organelle mutants,YPL149W
+Cell morphology and organelle mutants,YPL155C
+Cell morphology and organelle mutants,YPL161C
+Cell morphology and organelle mutants,YPL172C
+Cell morphology and organelle mutants,YPL175W
+Cell morphology and organelle mutants,YPL203W
+Cell morphology and organelle mutants,YPL209C
+Cell morphology and organelle mutants,YPL234C
+Cell morphology and organelle mutants,YPL241C
+Cell morphology and organelle mutants,YPL242C
+Cell morphology and organelle mutants,YPL255W
+Cell morphology and organelle mutants,YPL268W
+Cell morphology and organelle mutants,YPR024W
+Cell morphology and organelle mutants,YPR054W
+Cell morphology and organelle mutants,YPR069C
+Cell morphology and organelle mutants,YPR103W
+Cell morphology and organelle mutants,YPR122W
+Cell morphology and organelle mutants,YPR135W
+Cell morphology and organelle mutants,YPR141C
+Cell morphology and organelle mutants,YPR159W
+Cell morphology and organelle mutants,YPR166C
+Cell morphology and organelle mutants,YPR173C
+Cell morphology and organelle mutants,YPR181C
+Cell morphology and organelle mutants,YBL071W-A
+Cell morphology and organelle mutants,YCL005W-A
+Cell morphology and organelle mutants,YCR028C-A
+Cell morphology and organelle mutants,YDR322C-A
+Cell morphology and organelle mutants,YDR363W-A
+Cell morphology and organelle mutants,YFL034C-B
+Cell morphology and organelle mutants,YHR001W-A
+Cell morphology and organelle mutants,YHR005C-A
+Cell morphology and organelle mutants,YHR021W-A
+Cell morphology and organelle mutants,YHR039C-A
+Cell morphology and organelle mutants,YKL096W-A
+Cell morphology and organelle mutants,YLR390W-A
+Cell morphology and organelle mutants,YML081C-A
+Stress response defects,YAL015C
+Stress response defects,YAL021C
+Stress response defects,YAL026C
+Stress response defects,YAL041W
+Stress response defects,YAL062W
+Stress response defects,YBL093C
+Stress response defects,YBR015C
+Stress response defects,YBR036C
+Stress response defects,YBR082C
+Stress response defects,YBR103W
+Stress response defects,YBR127C
+Stress response defects,YBR131W
+Stress response defects,YBR166C
+Stress response defects,YBR173C
+Stress response defects,YBR217W
+Stress response defects,YBR290W
+Stress response defects,YBR294W
+Stress response defects,YCL035C
+Stress response defects,YCL063W
+Stress response defects,YCR008W
+Stress response defects,YCR009C
+Stress response defects,YCR017C
+Stress response defects,YCR021C
+Stress response defects,YCR034W
+Stress response defects,YCR037C
+Stress response defects,YCR044C
+Stress response defects,YCR047C
+Stress response defects,YCR081W
+Stress response defects,YCR094W
+Stress response defects,YDL120W
+Stress response defects,YDL128W
+Stress response defects,YDL185W
+Stress response defects,YDL192W
+Stress response defects,YDL212W
+Stress response defects,YDR011W
+Stress response defects,YDR072C
+Stress response defects,YDR077W
+Stress response defects,YDR182W
+Stress response defects,YDR213W
+Stress response defects,YDR227W
+Stress response defects,YDR256C
+Stress response defects,YDR293C
+Stress response defects,YDR323C
+Stress response defects,YDR353W
+Stress response defects,YDR388W
+Stress response defects,YDR423C
+Stress response defects,YDR427W
+Stress response defects,YDR513W
+Stress response defects,YDR515W
+Stress response defects,YEL027W
+Stress response defects,YER042W
+Stress response defects,YER057C
+Stress response defects,YFL038C
+Stress response defects,YFR052W
+Stress response defects,YGL006W
+Stress response defects,YGL071W
+Stress response defects,YGL167C
+Stress response defects,YGL173C
+Stress response defects,YGL180W
+Stress response defects,YGL227W
+Stress response defects,YGL255W
+Stress response defects,YGR092W
+Stress response defects,YGR105W
+Stress response defects,YGR191W
+Stress response defects,YGR217W
+Stress response defects,YHR030C
+Stress response defects,YHR051W
+Stress response defects,YHR060W
+Stress response defects,YHR171W
+Stress response defects,YHR175W
+Stress response defects,YHR206W
+Stress response defects,YIL033C
+Stress response defects,YIL046W
+Stress response defects,YIL075C
+Stress response defects,YIL153W
+Stress response defects,YIR017C
+Stress response defects,YIR038C
+Stress response defects,YJL057C
+Stress response defects,YJL077C
+Stress response defects,YJL095W
+Stress response defects,YJL101C
+Stress response defects,YJL121C
+Stress response defects,YJL159W
+Stress response defects,YJR045C
+Stress response defects,YJR059W
+Stress response defects,YJR065C
+Stress response defects,YJR090C
+Stress response defects,YJR104C
+Stress response defects,YKL028W
+Stress response defects,YKL073W
+Stress response defects,YKL080W
+Stress response defects,YKL093W
+Stress response defects,YKL114C
+Stress response defects,YKL210W
+Stress response defects,YLL039C
+Stress response defects,YLL060C
+Stress response defects,YLR092W
+Stress response defects,YLR138W
+Stress response defects,YLR148W
+Stress response defects,YLR337C
+Stress response defects,YLR399C
+Stress response defects,YLR447C
+Stress response defects,YML007W
+Stress response defects,YML028W
+Stress response defects,YML115C
+Stress response defects,YML121W
+Stress response defects,YMR021C
+Stress response defects,YMR022W
+Stress response defects,YMR035W
+Stress response defects,YMR037C
+Stress response defects,YMR038
+Stress response defects,YMR173W
+Stress response defects,YMR231W
+Stress response defects,YMR243C
+Stress response defects,YMR273
+Stress response defects,YMR301C
+Stress response defects,YNL027W
+Stress response defects,YNL066W
+Stress response defects,YNL138W
+Stress response defects,YNL241C
+Stress response defects,YNL259C
+Stress response defects,YNR052C
+Stress response defects,YOL052C
+Stress response defects,YOL081W
+Stress response defects,YOL096C
+Stress response defects,YOL122C
+Stress response defects,YOR018W
+Stress response defects,YOR031W
+Stress response defects,YOR043W
+Stress response defects,YOR231W
+Stress response defects,YOR316C
+Stress response defects,YOR360C
+Stress response defects,YPL045W
+Stress response defects,YPL050C
+Stress response defects,YPL057C
+Stress response defects,YPL091W
+Stress response defects,YPL140C
+Stress response defects,YPL149W
+Stress response defects,YPL154C
+Stress response defects,YPL163C
+Stress response defects,YPL177C
+Stress response defects,YPR124W
+Stress response defects,YPR173C
+Stress response defects,YPR185W
+Stress response defects,YPR199C
+Stress response defects,YPR200C
+Stress response defects,YPR201W
+Carbohydrate and lipid biosynthesis defects,YAL051W
+Carbohydrate and lipid biosynthesis defects,YBL082C
+Carbohydrate and lipid biosynthesis defects,YBR015C
+Carbohydrate and lipid biosynthesis defects,YBR036C
+Carbohydrate and lipid biosynthesis defects,YBR081C
+Carbohydrate and lipid biosynthesis defects,YBR265W
+Carbohydrate and lipid biosynthesis defects,YCR028C
+Carbohydrate and lipid biosynthesis defects,YCR034W
+Carbohydrate and lipid biosynthesis defects,YCR048W
+Carbohydrate and lipid biosynthesis defects,YCR098C
+Carbohydrate and lipid biosynthesis defects,YDL078C
+Carbohydrate and lipid biosynthesis defects,YDL142C
+Carbohydrate and lipid biosynthesis defects,YDL232W
+Carbohydrate and lipid biosynthesis defects,YDR123C
+Carbohydrate and lipid biosynthesis defects,YDR164C
+Carbohydrate and lipid biosynthesis defects,YDR170C
+Carbohydrate and lipid biosynthesis defects,YDR245W
+Carbohydrate and lipid biosynthesis defects,YDR294C
+Carbohydrate and lipid biosynthesis defects,YDR297W
+Carbohydrate and lipid biosynthesis defects,YDR331W
+Carbohydrate and lipid biosynthesis defects,YEL030W
+Carbohydrate and lipid biosynthesis defects,YEL036C
+Carbohydrate and lipid biosynthesis defects,YEL037C
+Carbohydrate and lipid biosynthesis defects,YER003C
+Carbohydrate and lipid biosynthesis defects,YER015W
+Carbohydrate and lipid biosynthesis defects,YER026C
+Carbohydrate and lipid biosynthesis defects,YFL005W
+Carbohydrate and lipid biosynthesis defects,YGL055W
+Carbohydrate and lipid biosynthesis defects,YHL020C
+Carbohydrate and lipid biosynthesis defects,YHR042W
+Carbohydrate and lipid biosynthesis defects,YIL153W
+Carbohydrate and lipid biosynthesis defects,YJL134W
+Carbohydrate and lipid biosynthesis defects,YJL196C
+Carbohydrate and lipid biosynthesis defects,YJR073C
+Carbohydrate and lipid biosynthesis defects,YKR053C
+Carbohydrate and lipid biosynthesis defects,YLR372W
+Carbohydrate and lipid biosynthesis defects,YML008C
+Carbohydrate and lipid biosynthesis defects,YML075C
+Carbohydrate and lipid biosynthesis defects,YMR015C
+Carbohydrate and lipid biosynthesis defects,YMR272C
+Carbohydrate and lipid biosynthesis defects,YNL280C
+Carbohydrate and lipid biosynthesis defects,YOR196C
+Carbohydrate and lipid biosynthesis defects,YOR317W
+Carbohydrate and lipid biosynthesis defects,YPL057C
+Carbohydrate and lipid biosynthesis defects,YPL069C
+Carbohydrate and lipid biosynthesis defects,YPL175W
+Nucleic acid metabolism defects,YAL016W
+Nucleic acid metabolism defects,YAL019W
+Nucleic acid metabolism defects,YAR050W
+Nucleic acid metabolism defects,YBL008W
+Nucleic acid metabolism defects,YBL023C
+Nucleic acid metabolism defects,YBL042C
+Nucleic acid metabolism defects,YBL084C
+Nucleic acid metabolism defects,YBL088C
+Nucleic acid metabolism defects,YBL105C
+Nucleic acid metabolism defects,YBR009C
+Nucleic acid metabolism defects,YBR010W
+Nucleic acid metabolism defects,YBR021W
+Nucleic acid metabolism defects,YBR029C
+Nucleic acid metabolism defects,YBR057C
+Nucleic acid metabolism defects,YBR073W
+Nucleic acid metabolism defects,YBR081C
+Nucleic acid metabolism defects,YBR083W
+Nucleic acid metabolism defects,YBR087W
+Nucleic acid metabolism defects,YBR088C
+Nucleic acid metabolism defects,YBR098W
+Nucleic acid metabolism defects,YBR103W
+Nucleic acid metabolism defects,YBR112C
+Nucleic acid metabolism defects,YBR114W
+Nucleic acid metabolism defects,YBR136W
+Nucleic acid metabolism defects,YBR160W
+Nucleic acid metabolism defects,YBR195C
+Nucleic acid metabolism defects,YBR202W
+Nucleic acid metabolism defects,YBR203W
+Nucleic acid metabolism defects,YBR253W
+Nucleic acid metabolism defects,YBR272C
+Nucleic acid metabolism defects,YBR275C
+Nucleic acid metabolism defects,YBR279W
+Nucleic acid metabolism defects,YCL054W
+Nucleic acid metabolism defects,YCR066W
+Nucleic acid metabolism defects,YCR077C
+Nucleic acid metabolism defects,YCR092C
+Nucleic acid metabolism defects,YCR094W
+Nucleic acid metabolism defects,YDL003W
+Nucleic acid metabolism defects,YDL017W
+Nucleic acid metabolism defects,YDL042C
+Nucleic acid metabolism defects,YDL059C
+Nucleic acid metabolism defects,YDL101C
+Nucleic acid metabolism defects,YDL102W
+Nucleic acid metabolism defects,YDL108W
+Nucleic acid metabolism defects,YDL200C
+Nucleic acid metabolism defects,YDL220C
+Nucleic acid metabolism defects,YDR030C
+Nucleic acid metabolism defects,YDR076W
+Nucleic acid metabolism defects,YDR097C
+Nucleic acid metabolism defects,YDR108W
+Nucleic acid metabolism defects,YDR138W
+Nucleic acid metabolism defects,YDR182W
+Nucleic acid metabolism defects,YDR207C
+Nucleic acid metabolism defects,YDR217C
+Nucleic acid metabolism defects,YDR227W
+Nucleic acid metabolism defects,YDR311W
+Nucleic acid metabolism defects,YDR364C
+Nucleic acid metabolism defects,YDR369C
+Nucleic acid metabolism defects,YDR419W
+Nucleic acid metabolism defects,YDR432W
+Nucleic acid metabolism defects,YDR439W
+Nucleic acid metabolism defects,YDR440W
+Nucleic acid metabolism defects,YDR457W
+Nucleic acid metabolism defects,YDR499W
+Nucleic acid metabolism defects,YEL019C
+Nucleic acid metabolism defects,YEL032W
+Nucleic acid metabolism defects,YEL037C
+Nucleic acid metabolism defects,YEL063C
+Nucleic acid metabolism defects,YER013W
+Nucleic acid metabolism defects,YER022W
+Nucleic acid metabolism defects,YER095W
+Nucleic acid metabolism defects,YER142C
+Nucleic acid metabolism defects,YER148W
+Nucleic acid metabolism defects,YER151C
+Nucleic acid metabolism defects,YER162C
+Nucleic acid metabolism defects,YER164W
+Nucleic acid metabolism defects,YER171W
+Nucleic acid metabolism defects,YER173W
+Nucleic acid metabolism defects,YER179W
+Nucleic acid metabolism defects,YFL036W
+Nucleic acid metabolism defects,YFR052W
+Nucleic acid metabolism defects,YGL013C
+Nucleic acid metabolism defects,YGL033W
+Nucleic acid metabolism defects,YGL035C
+Nucleic acid metabolism defects,YGL043W
+Nucleic acid metabolism defects,YGL048C
+Nucleic acid metabolism defects,YGL058W
+Nucleic acid metabolism defects,YGL087C
+Nucleic acid metabolism defects,YGL090W
+Nucleic acid metabolism defects,YGL115W
+Nucleic acid metabolism defects,YGL127C
+Nucleic acid metabolism defects,YGL163C
+Nucleic acid metabolism defects,YGL173C
+Nucleic acid metabolism defects,YGL249W
+Nucleic acid metabolism defects,YGR047C
+Nucleic acid metabolism defects,YGR063C
+Nucleic acid metabolism defects,YGR116W
+Nucleic acid metabolism defects,YGR144W
+Nucleic acid metabolism defects,YGR158C
+Nucleic acid metabolism defects,YGR180C
+Nucleic acid metabolism defects,YGR197C
+Nucleic acid metabolism defects,YGR258C
+Nucleic acid metabolism defects,YHL022C
+Nucleic acid metabolism defects,YHR041C
+Nucleic acid metabolism defects,YHR062C
+Nucleic acid metabolism defects,YHR069C
+Nucleic acid metabolism defects,YHR084W
+Nucleic acid metabolism defects,YHR118C
+Nucleic acid metabolism defects,YHR119W
+Nucleic acid metabolism defects,YHR157W
+Nucleic acid metabolism defects,YHR164C
+Nucleic acid metabolism defects,YIL010W
+Nucleic acid metabolism defects,YIL033C
+Nucleic acid metabolism defects,YIL072W
+Nucleic acid metabolism defects,YIL128W
+Nucleic acid metabolism defects,YIL143C
+Nucleic acid metabolism defects,YIL150C
+Nucleic acid metabolism defects,YIR008C
+Nucleic acid metabolism defects,YJL081C
+Nucleic acid metabolism defects,YJL090C
+Nucleic acid metabolism defects,YJL092W
+Nucleic acid metabolism defects,YJL115W
+Nucleic acid metabolism defects,YJL127C
+Nucleic acid metabolism defects,YJL173C
+Nucleic acid metabolism defects,YJL194W
+Nucleic acid metabolism defects,YJL203W
+Nucleic acid metabolism defects,YJL208C
+Nucleic acid metabolism defects,YJR006W
+Nucleic acid metabolism defects,YJR021C
+Nucleic acid metabolism defects,YJR035W
+Nucleic acid metabolism defects,YJR043C
+Nucleic acid metabolism defects,YJR046W
+Nucleic acid metabolism defects,YJR052W
+Nucleic acid metabolism defects,YJR068W
+Nucleic acid metabolism defects,YJR073C
+Nucleic acid metabolism defects,YKL112W
+Nucleic acid metabolism defects,YKL113C
+Nucleic acid metabolism defects,YKL114C
+Nucleic acid metabolism defects,YKL139W
+Nucleic acid metabolism defects,YKL145W
+Nucleic acid metabolism defects,YKR019C
+Nucleic acid metabolism defects,YKR095W
+Nucleic acid metabolism defects,YLL004W
+Nucleic acid metabolism defects,YLL036C
+Nucleic acid metabolism defects,YLR005W
+Nucleic acid metabolism defects,YLR032W
+Nucleic acid metabolism defects,YLR055C
+Nucleic acid metabolism defects,YLR098C
+Nucleic acid metabolism defects,YLR103C
+Nucleic acid metabolism defects,YLR233C
+Nucleic acid metabolism defects,YLR234W
+Nucleic acid metabolism defects,YLR263W
+Nucleic acid metabolism defects,YLR274W
+Nucleic acid metabolism defects,YLR288C
+Nucleic acid metabolism defects,YLR399C
+Nucleic acid metabolism defects,YLR418C
+Nucleic acid metabolism defects,YLR442C
+Nucleic acid metabolism defects,YLR453C
+Nucleic acid metabolism defects,YML007W
+Nucleic acid metabolism defects,YML010W
+Nucleic acid metabolism defects,YML032C
+Nucleic acid metabolism defects,YML043C
+Nucleic acid metabolism defects,YML060W
+Nucleic acid metabolism defects,YML061C
+Nucleic acid metabolism defects,YML095C
+Nucleic acid metabolism defects,YML102W
+Nucleic acid metabolism defects,YMR035
+Nucleic acid metabolism defects,YMR106C
+Nucleic acid metabolism defects,YMR137C
+Nucleic acid metabolism defects,YMR179W
+Nucleic acid metabolism defects,YMR190C
+Nucleic acid metabolism defects,YMR201C
+Nucleic acid metabolism defects,YMR224C
+Nucleic acid metabolism defects,YMR263W
+Nucleic acid metabolism defects,YMR280
+Nucleic acid metabolism defects,YMR287C
+Nucleic acid metabolism defects,YNL021W
+Nucleic acid metabolism defects,YNL030W
+Nucleic acid metabolism defects,YNL031C
+Nucleic acid metabolism defects,YNL082W
+Nucleic acid metabolism defects,YNL088W
+Nucleic acid metabolism defects,YNL139C
+Nucleic acid metabolism defects,YNL186W
+Nucleic acid metabolism defects,YNL216W
+Nucleic acid metabolism defects,YNL222W
+Nucleic acid metabolism defects,YNL236W
+Nucleic acid metabolism defects,YNL250W
+Nucleic acid metabolism defects,YNL261W
+Nucleic acid metabolism defects,YNL312W
+Nucleic acid metabolism defects,YNL330C
+Nucleic acid metabolism defects,YOL004W
+Nucleic acid metabolism defects,YOL006C
+Nucleic acid metabolism defects,YOL090W
+Nucleic acid metabolism defects,YOL115W
+Nucleic acid metabolism defects,YOL148C
+Nucleic acid metabolism defects,YOR038C
+Nucleic acid metabolism defects,YOR061W
+Nucleic acid metabolism defects,YOR116C
+Nucleic acid metabolism defects,YOR211C
+Nucleic acid metabolism defects,YOR217W
+Nucleic acid metabolism defects,YOR298W
+Nucleic acid metabolism defects,YOR344C
+Nucleic acid metabolism defects,YPL022W
+Nucleic acid metabolism defects,YPL082C
+Nucleic acid metabolism defects,YPL086C
+Nucleic acid metabolism defects,YPL121C
+Nucleic acid metabolism defects,YPL153C
+Nucleic acid metabolism defects,YPL167C
+Nucleic acid metabolism defects,YPL175W
+Nucleic acid metabolism defects,YPL194W
+Nucleic acid metabolism defects,YPL204W
+Nucleic acid metabolism defects,YPR018W
+Nucleic acid metabolism defects,YPR019W
+Nucleic acid metabolism defects,YPR086W
+Nucleic acid metabolism defects,YPR135W
+Nucleic acid metabolism defects,YPR141C
+Nucleic acid metabolism defects,YER044C-A
+Nucleic acid metabolism defects,YHR079C-A
+Nucleic acid metabolism defects,YIL009C-A
+Sensitivity to amino acid analogs and other drugs,YAL021C
+Sensitivity to amino acid analogs and other drugs,YBL005W
+Sensitivity to amino acid analogs and other drugs,YBL043W
+Sensitivity to amino acid analogs and other drugs,YBL105C
+Sensitivity to amino acid analogs and other drugs,YBR065C
+Sensitivity to amino acid analogs and other drugs,YBR082C
+Sensitivity to amino acid analogs and other drugs,YBR131W
+Sensitivity to amino acid analogs and other drugs,YCL004W
+Sensitivity to amino acid analogs and other drugs,YCL025C
+Sensitivity to amino acid analogs and other drugs,YCL063W
+Sensitivity to amino acid analogs and other drugs,YCR009C
+Sensitivity to amino acid analogs and other drugs,YCR017C
+Sensitivity to amino acid analogs and other drugs,YCR028C
+Sensitivity to amino acid analogs and other drugs,YCR077C
+Sensitivity to amino acid analogs and other drugs,YCR081W
+Sensitivity to amino acid analogs and other drugs,YCR094W
+Sensitivity to amino acid analogs and other drugs,YCR106W
+Sensitivity to amino acid analogs and other drugs,YDL006W
+Sensitivity to amino acid analogs and other drugs,YDL160C
+Sensitivity to amino acid analogs and other drugs,YDL185W
+Sensitivity to amino acid analogs and other drugs,YDL194W
+Sensitivity to amino acid analogs and other drugs,YDR160W
+Sensitivity to amino acid analogs and other drugs,YDR225W
+Sensitivity to amino acid analogs and other drugs,YDR264C
+Sensitivity to amino acid analogs and other drugs,YDR293C
+Sensitivity to amino acid analogs and other drugs,YDR508C
+Sensitivity to amino acid analogs and other drugs,YEL036C
+Sensitivity to amino acid analogs and other drugs,YEL037C
+Sensitivity to amino acid analogs and other drugs,YER056C
+Sensitivity to amino acid analogs and other drugs,YER125W
+Sensitivity to amino acid analogs and other drugs,YER129W
+Sensitivity to amino acid analogs and other drugs,YER155C
+Sensitivity to amino acid analogs and other drugs,YFL031W
+Sensitivity to amino acid analogs and other drugs,YFR029W
+Sensitivity to amino acid analogs and other drugs,YFR052W
+Sensitivity to amino acid analogs and other drugs,YGL008C
+Sensitivity to amino acid analogs and other drugs,YGL013C
+Sensitivity to amino acid analogs and other drugs,YGL022W
+Sensitivity to amino acid analogs and other drugs,YGL048C
+Sensitivity to amino acid analogs and other drugs,YGL103W
+Sensitivity to amino acid analogs and other drugs,YGL178W
+Sensitivity to amino acid analogs and other drugs,YGR055W
+Sensitivity to amino acid analogs and other drugs,YGR057C
+Sensitivity to amino acid analogs and other drugs,YGR092W
+Sensitivity to amino acid analogs and other drugs,YGR121C
+Sensitivity to amino acid analogs and other drugs,YGR195W
+Sensitivity to amino acid analogs and other drugs,YGR213C
+Sensitivity to amino acid analogs and other drugs,YGR218W
+Sensitivity to amino acid analogs and other drugs,YGR252W
+Sensitivity to amino acid analogs and other drugs,YGR281W
+Sensitivity to amino acid analogs and other drugs,YHR027C
+Sensitivity to amino acid analogs and other drugs,YHR030C
+Sensitivity to amino acid analogs and other drugs,YHR077C
+Sensitivity to amino acid analogs and other drugs,YHR141C
+Sensitivity to amino acid analogs and other drugs,YHR200W
+Sensitivity to amino acid analogs and other drugs,YIL146C
+Sensitivity to amino acid analogs and other drugs,YIL147C
+Sensitivity to amino acid analogs and other drugs,YIL153W
+Sensitivity to amino acid analogs and other drugs,YIL154C
+Sensitivity to amino acid analogs and other drugs,YIR030C
+Sensitivity to amino acid analogs and other drugs,YJL059W
+Sensitivity to amino acid analogs and other drugs,YJL128C
+Sensitivity to amino acid analogs and other drugs,YJR059W
+Sensitivity to amino acid analogs and other drugs,YJR069C
+Sensitivity to amino acid analogs and other drugs,YKL032C
+Sensitivity to amino acid analogs and other drugs,YKL113C
+Sensitivity to amino acid analogs and other drugs,YKL213C
+Sensitivity to amino acid analogs and other drugs,YLL002W
+Sensitivity to amino acid analogs and other drugs,YLL039C
+Sensitivity to amino acid analogs and other drugs,YLR056W
+Sensitivity to amino acid analogs and other drugs,YLR237W
+Sensitivity to amino acid analogs and other drugs,YLR288C
+Sensitivity to amino acid analogs and other drugs,YLR303W
+Sensitivity to amino acid analogs and other drugs,YLR305C
+Sensitivity to amino acid analogs and other drugs,YLR342W
+Sensitivity to amino acid analogs and other drugs,YLR353W
+Sensitivity to amino acid analogs and other drugs,YLR371W
+Sensitivity to amino acid analogs and other drugs,YLR397C
+Sensitivity to amino acid analogs and other drugs,YLR450W
+Sensitivity to amino acid analogs and other drugs,YLR451W
+Sensitivity to amino acid analogs and other drugs,YML004C
+Sensitivity to amino acid analogs and other drugs,YML008C
+Sensitivity to amino acid analogs and other drugs,YML116W
+Sensitivity to amino acid analogs and other drugs,YML130C
+Sensitivity to amino acid analogs and other drugs,YMR080C
+Sensitivity to amino acid analogs and other drugs,YMR106C
+Sensitivity to amino acid analogs and other drugs,YMR173W
+Sensitivity to amino acid analogs and other drugs,YMR176W
+Sensitivity to amino acid analogs and other drugs,YMR234W
+Sensitivity to amino acid analogs and other drugs,YMR263W
+Sensitivity to amino acid analogs and other drugs,YMR307
+Sensitivity to amino acid analogs and other drugs,YNL006W
+Sensitivity to amino acid analogs and other drugs,YNL032W
+Sensitivity to amino acid analogs and other drugs,YNL076W
+Sensitivity to amino acid analogs and other drugs,YNL088W
+Sensitivity to amino acid analogs and other drugs,YNL162W
+Sensitivity to amino acid analogs and other drugs,YNL219C
+Sensitivity to amino acid analogs and other drugs,YNL236W
+Sensitivity to amino acid analogs and other drugs,YNL238W
+Sensitivity to amino acid analogs and other drugs,YNL239W
+Sensitivity to amino acid analogs and other drugs,YNL277W
+Sensitivity to amino acid analogs and other drugs,YNL287W
+Sensitivity to amino acid analogs and other drugs,YNL330C
+Sensitivity to amino acid analogs and other drugs,YNR031C
+Sensitivity to amino acid analogs and other drugs,YNR052C
+Sensitivity to amino acid analogs and other drugs,YOL004W
+Sensitivity to amino acid analogs and other drugs,YOL020W
+Sensitivity to amino acid analogs and other drugs,YOL076W
+Sensitivity to amino acid analogs and other drugs,YOL116W
+Sensitivity to amino acid analogs and other drugs,YOR008C
+Sensitivity to amino acid analogs and other drugs,YOR040W
+Sensitivity to amino acid analogs and other drugs,YOR133W
+Sensitivity to amino acid analogs and other drugs,YOR153W
+Sensitivity to amino acid analogs and other drugs,YOR162C
+Sensitivity to amino acid analogs and other drugs,YOR181W
+Sensitivity to amino acid analogs and other drugs,YOR266W
+Sensitivity to amino acid analogs and other drugs,YOR386W
+Sensitivity to amino acid analogs and other drugs,YPL084W
+Sensitivity to amino acid analogs and other drugs,YPL089C
+Sensitivity to amino acid analogs and other drugs,YPL092W
+Sensitivity to amino acid analogs and other drugs,YPR042C
+Sensitivity to amino acid analogs and other drugs,YPR062W
+Sensitivity to amino acid analogs and other drugs,YPR164W
+Sensitivity to amino acid analogs and other drugs,YKL096W-A
+Sensitivity to antibiotics,YBL024W
+Sensitivity to antibiotics,YBR110W
+Sensitivity to antibiotics,YBR143C
+Sensitivity to antibiotics,YBR243C
+Sensitivity to antibiotics,YCR073C
+Sensitivity to antibiotics,YDL194W
+Sensitivity to antibiotics,YDL232W
+Sensitivity to antibiotics,YDR021W
+Sensitivity to antibiotics,YDR025W
+Sensitivity to antibiotics,YDR087C
+Sensitivity to antibiotics,YDR454C
+Sensitivity to antibiotics,YDR498C
+Sensitivity to antibiotics,YEL030W
+Sensitivity to antibiotics,YER176W
+Sensitivity to antibiotics,YFL031W
+Sensitivity to antibiotics,YGL058W
+Sensitivity to antibiotics,YGL123W
+Sensitivity to antibiotics,YGR072W
+Sensitivity to antibiotics,YGR118W
+Sensitivity to antibiotics,YGR195W
+Sensitivity to antibiotics,YGR281W
+Sensitivity to antibiotics,YHL030W
+Sensitivity to antibiotics,YHR132C
+Sensitivity to antibiotics,YIL147C
+Sensitivity to antibiotics,YIL154C
+Sensitivity to antibiotics,YJL165C
+Sensitivity to antibiotics,YJR075W
+Sensitivity to antibiotics,YJR137C
+Sensitivity to antibiotics,YKR009C
+Sensitivity to antibiotics,YLR249W
+Sensitivity to antibiotics,YLR390W
+Sensitivity to antibiotics,YML048W
+Sensitivity to antibiotics,YML115C
+Sensitivity to antibiotics,YMR128W
+Sensitivity to antibiotics,YMR176W
+Sensitivity to antibiotics,YMR234W
+Sensitivity to antibiotics,YNL244C
+Sensitivity to antibiotics,YNR003C
+Sensitivity to antibiotics,YOL116W
+Sensitivity to antibiotics,YOR008C
+Sensitivity to antibiotics,YPL053C
+Sensitivity to antibiotics,YPR042C
+Sensitivity to antibiotics,YPR132W
+Sensitivity to immunosuppressants,YBR069C
+Sensitivity to immunosuppressants,YCR034W
+Sensitivity to immunosuppressants,YDR099W
+Sensitivity to immunosuppressants,YDR155C
+Sensitivity to immunosuppressants,YER177W
+Sensitivity to immunosuppressants,YHR060W
+Sensitivity to immunosuppressants,YIL153W
+Sensitivity to immunosuppressants,YJR066W
+Sensitivity to immunosuppressants,YKL124W
+Sensitivity to immunosuppressants,YKL203C
+Sensitivity to immunosuppressants,YLR342W
+Sensitivity to immunosuppressants,YLR433C
+Sensitivity to immunosuppressants,YNL135C
+Sensitivity to immunosuppressants,YPL152W
