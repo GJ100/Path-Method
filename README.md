@@ -6,90 +6,46 @@ Identification of protein phenotype is an essential and challenge problem in mod
 
 ![Figure-3](https://github.com/GJ100/Path-Method/blob/main/Figure%203.jpg)
 
-### This program is used to calculate the matching value in each path starting from phenotype and ending at protein, Relevant explanations are as follows:
+### This program is to evaluate the association between one protein and one phenotype in a heterogeneous network. Relevant explanations are as follows:
 
 ## 1. About files
 
-##### The files needed for running the program are placed in the network folder of the project, the test file data is placed in the example folder, and all file formats are in csv format (with',' as the separator). For the convenience of calculation, the phenotype number is from A to K, and the protein number From 0 to 6573, each document is explained as follows:
+##### The network data for running the program are placed in the “network” folder of the project. Due to the large size of the network, which need long time to run the program, we also provide small network data that are available in the “example” folder. All data files are in csv format (with comma as the separator). For concision, eleven phenotypes are coded by letters from A to K, respectively, and proteins are numbered by integers between 0 and 6573. The description of each document is as follows:
 
-a.	Supp-S1.csv: Eleven phenotypes and their annotation proteins
+a. Supp-S1.csv: Validated association between proteins and phenotypes.
 
-b.	ID_Supp-S1.csv: Phenotype with renumbering and its annotated protein
+b. ID_Supp-S1.csv: Validated association between proteins and phenotypes, where proteins are encoded by integers and phenotypes are represented by letters. 
 
-c.	Combine_Score.csv: The binding value between each protein in the protein network
+c. Combine_Score.csv: The data file containing the edge information of the network. 
 
-d.	ID_Combine_Score.csv: The binding value between each protein in the protein network with renumbering
+d. ID_Combine_Score.csv: The data file containing the edge information of the network, where proteins are encoded by integers and phenotypes are represented by letters. 
 
-e.	ID_Combine_Score_Test.csv: In order to save test time, 300 data selected from the "ID_Combine_Score.csv" file are used for testing.
+e. ID_Combine_Score_Test.csv: The data file for the small network. 
 
 ## 2. About the program
 
 ### a. Environment:
 
-The environment used by the program is: Windows 10 64-bit, based on Anaconda's Python 3.7.5 version, and the compiler uses VS Code.
+Windows 10 64-bit
+
+Anaconda with Python 3.7.5 version
+
+Compiler with VS Code
 
 ### b. Input:
 
-You need to give a starting phenotype and an ending protein. If you use renumbered files, such as phenotype:'A' and protein: '2271', if you use original data files, such as phenotype: ‘Conditional phenotypes’ and protein: 'YAL002W', plus which path needs to be calculated, such as: 4
+One phenotype
 
-##### *Note: If you do not use renumbered files, please replace the read files with unnumbered files in the program*
+One protein
+
+The path length limitation parameter
+
+Network data file
 
 ### c. Output 
 
-The matching value of this path is based on the input phenotype as the starting point and the input protein as the end point.
+The association score of the input.
 
-### d. Notes on the program:
+## Reference
 
-The annotation in the program such as: A->Apros->pro2, which means that the starting point is phenotype A, and the end point is the protein on the protein network when the annotation protein of phenotype A reaches
-
-### e. Remarks
-
-The program provides a copy of test data. In order to facilitate inspection and testing, it takes a lot of time to verify the complete data (estimated from half a month)
-
-
-
-
-
-
-
-
-
-### 本程序是用来计算起点为表型，终点是蛋白的在各路径下的匹配值，相关说明如下：
-
-## 1. 关于文件
-
-##### 程序运行所需要的文件都放在该项目network文件夹中，测试文件数据放在example文件夹中，且所有文件格式都是csv格式（以’,‘为间隔符），为了方便计算，将表型编号为从A到K，蛋白编号为0到6573，各文件解释如下：
-
-a.	Supp-S1.csv：十一个表型与其注释蛋白
-
-b.	ID_Supp-S1.csv：带有重新编号的表型与其注释蛋白
-
-c.	Combine_Score.csv：蛋白网络中每个蛋白之间的结合值
-
-d.	ID_Combine_Score.csv：带有重新编号的蛋白网络中每个蛋白之间的结合值
-
-e.	ID_Combine_Score_Test.csv：为了节省测试时间，从“ID_Combine_Score.csv”文件中选取的300个数据进行测试使用。
-
-## 2. 关于程序
-
-### a. 环境：
-
-该程序所使用环境为：Windows 10 64-bit，基于Anaconda的Python 3.7.5版本，编译器使用的是 VS Code。
-
-### b. 输入：
-
-需要给定一个起点表型和一个终点蛋白，如果你使用重新编号的文件，如表型：‘A’和蛋白：’2271’，如果你使用原数据文件，如表型‘Conditional phenotypes’和蛋白：‘YAL002W’，再加上需要在哪条路径下计算，如：4
-
-注意：如果不使用重新编号的文件，请在程序中将读取的文件替换成未编号的文件
-
-### c. 输出：
-
-以该起点和该终点在这条路径下的匹配值。
-
-### d. 注释：
-
-程序中的注释如：A->Apros->pro2，代表着起点是表型A，通过表型A的注释蛋白到达终点为蛋白网络上的蛋白
-
-## 3. 备注：
-
-该程序提供了一份测试数据，为了方便检验和测试，如需验证完整的数据需要大量的时间（估算半个月起）
+Jian Gao, Bin Hu, Lei Chen, A path-based method for identification of protein phenotypic annotations, submitted.
